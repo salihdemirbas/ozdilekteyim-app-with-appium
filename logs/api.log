@@ -1,0 +1,7 @@
+05-12-2021 22:09:53.325 [Gauge] [INFO] Initializing concepts cache with 0 concepts
+05-12-2021 22:09:53.443 [Gauge] [INFO] Initializing specs cache with 1 specs
+05-12-2021 22:09:53.443 [Gauge] [DEBUG] Adding specs from C:\Users\testinium\IdeaProjects\OzdilekteyimMobilApp\specs\example.spec
+05-12-2021 22:09:53.443 [Gauge] [INFO] Initializing steps cache with 1 steps
+05-12-2021 22:09:53.444 [Gauge] [INFO] Gauge daemon initialized and listening on port: 54409
+05-12-2021 22:09:53.451 [Gauge] [DEBUG] Watching directory: C:\Users\testinium\IdeaProjects\OzdilekteyimMobilApp\specs
+05-12-2021 22:09:53.451 [Gauge] [DEBUG] Found 1 files
