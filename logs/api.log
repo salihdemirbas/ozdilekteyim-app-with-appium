@@ -5,3 +5,69 @@
 05-12-2021 22:09:53.444 [Gauge] [INFO] Gauge daemon initialized and listening on port: 54409
 05-12-2021 22:09:53.451 [Gauge] [DEBUG] Watching directory: C:\Users\testinium\IdeaProjects\OzdilekteyimMobilApp\specs
 05-12-2021 22:09:53.451 [Gauge] [DEBUG] Found 1 files
+05-12-2021 22:09:58.501 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"<id> id'li elemente tıkla"}
+05-12-2021 22:09:58.503 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"{} id'li elemente tıkla"  parameterizedStepValue:"<id> id'li elemente tıkla"  parameters:"id"}}
+05-12-2021 22:09:58.671 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"\"com.ozdilek.ozdilekteyim:id/tv_startShoppingStore\" id'li elemente tıkla"}
+05-12-2021 22:09:58.671 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"{} id'li elemente tıkla"  parameterizedStepValue:"<com.ozdilek.ozdilekteyim:id/tv_startShoppingStore> id'li elemente tıkla"  parameters:"com.ozdilek.ozdilekteyim:id/tv_startShoppingStore"}}
+05-12-2021 22:11:26.019 [Gauge] [DEBUG] Spec file added / modified: C:\Users\testinium\IdeaProjects\OzdilekteyimMobilApp\specs\example.spec
+05-12-2021 22:11:26.038 [Gauge] [DEBUG] Spec file added / modified: C:\Users\testinium\IdeaProjects\OzdilekteyimMobilApp\specs\example.spec
+05-12-2021 22:11:30.206 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"t"}
+05-12-2021 22:11:30.206 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"t"  parameterizedStepValue:"t"}}
+05-12-2021 22:11:30.366 [Gauge] [DEBUG] Api Request Received: messageType:GetAllStepsRequest  messageId:2  allStepsRequest:{}
+05-12-2021 22:11:30.366 [Gauge] [DEBUG] Sending API response: messageType:GetAllStepResponse  messageId:2  allStepsResponse:{allSteps:{stepValue:"{} id'li elemente tıkla"  parameterizedStepValue:"<com.ozdilek.ozdilekteyim:id/tv_startShoppingStore> id'li elemente tıkla"  parameters:"com.ozdilek.ozdilekteyim:id/tv_startShoppingStore"}}
+05-12-2021 22:11:30.371 [Gauge] [DEBUG] Api Request Received: messageType:GetAllConceptsRequest  messageId:6  allConceptsRequest:{}
+05-12-2021 22:11:30.371 [Gauge] [DEBUG] Sending API response: messageType:GetAllConceptsResponse  messageId:6  allConceptsResponse:{}
+05-12-2021 22:11:44.716 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"id'li elemente tıkla"}
+05-12-2021 22:11:44.716 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"id'li elemente tıkla"  parameterizedStepValue:"id'li elemente tıkla"}}
+05-12-2021 22:12:25.665 [Gauge] [DEBUG] Spec file added / modified: C:\Users\testinium\IdeaProjects\OzdilekteyimMobilApp\specs\example.spec
+05-12-2021 22:12:25.666 [Gauge] [DEBUG] Spec file added / modified: C:\Users\testinium\IdeaProjects\OzdilekteyimMobilApp\specs\example.spec
+05-12-2021 22:19:11.266 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"<zaman> saniye bekle"}
+05-12-2021 22:19:11.272 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"{} saniye bekle"  parameterizedStepValue:"<zaman> saniye bekle"  parameters:"zaman"}}
+05-12-2021 22:20:45.887 [Gauge] [DEBUG] Spec file added / modified: C:\Users\testinium\IdeaProjects\OzdilekteyimMobilApp\specs\example.spec
+05-12-2021 22:20:45.899 [Gauge] [DEBUG] Spec file added / modified: C:\Users\testinium\IdeaProjects\OzdilekteyimMobilApp\specs\example.spec
+05-12-2021 22:20:49.352 [Gauge] [DEBUG] Spec file added / modified: C:\Users\testinium\IdeaProjects\OzdilekteyimMobilApp\specs\example.spec
+05-12-2021 22:20:49.528 [Gauge] [DEBUG] Spec file added / modified: C:\Users\testinium\IdeaProjects\OzdilekteyimMobilApp\specs\example.spec
+05-12-2021 22:20:50.614 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{}
+05-12-2021 22:20:50.615 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{}}
+05-12-2021 22:20:50.621 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{}
+05-12-2021 22:20:50.621 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{}}
+05-12-2021 22:20:50.645 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{}
+05-12-2021 22:20:50.645 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{}}
+05-12-2021 22:20:50.645 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{}
+05-12-2021 22:20:50.645 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{}}
+05-12-2021 22:20:50.670 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{}
+05-12-2021 22:20:50.670 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{}}
+05-12-2021 22:20:50.671 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{}
+05-12-2021 22:20:50.671 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{}}
+05-12-2021 22:20:50.671 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{}
+05-12-2021 22:20:50.671 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{}}
+05-12-2021 22:20:50.921 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{}
+05-12-2021 22:20:50.921 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{}}
+05-12-2021 22:20:50.950 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{}
+05-12-2021 22:20:50.951 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{}}
+05-12-2021 22:20:50.951 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{}
+05-12-2021 22:20:50.951 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{}}
+05-12-2021 22:20:50.969 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{}
+05-12-2021 22:20:50.969 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{}}
+05-12-2021 22:20:50.970 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{}
+05-12-2021 22:20:50.970 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{}}
+05-12-2021 22:20:50.989 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{}
+05-12-2021 22:20:50.989 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{}}
+05-12-2021 22:20:50.989 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{}
+05-12-2021 22:20:50.989 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{}}
+05-12-2021 22:20:51.140 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"b"}
+05-12-2021 22:20:51.140 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"b"  parameterizedStepValue:"b"}}
+05-12-2021 22:20:51.151 [Gauge] [DEBUG] Api Request Received: messageType:GetAllStepsRequest  messageId:2  allStepsRequest:{}
+05-12-2021 22:20:51.151 [Gauge] [DEBUG] Sending API response: messageType:GetAllStepResponse  messageId:2  allStepsResponse:{allSteps:{stepValue:"{} id'li elemente tıkla"  parameterizedStepValue:"<com.ozdilek.ozdilekteyim:id/tv_startShoppingStore> id'li elemente tıkla"  parameters:"com.ozdilek.ozdilekteyim:id/tv_startShoppingStore"}}
+05-12-2021 22:20:51.152 [Gauge] [DEBUG] Api Request Received: messageType:GetAllConceptsRequest  messageId:6  allConceptsRequest:{}
+05-12-2021 22:20:51.152 [Gauge] [DEBUG] Sending API response: messageType:GetAllConceptsResponse  messageId:6  allConceptsResponse:{}
+05-12-2021 22:20:54.605 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"saniye bekle"}
+05-12-2021 22:20:54.606 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"saniye bekle"  parameterizedStepValue:"saniye bekle"}}
+05-12-2021 22:20:55.569 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{}
+05-12-2021 22:20:55.570 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{}}
+05-12-2021 22:20:57.443 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"\"\" saniye bekle"}
+05-12-2021 22:20:57.443 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"{} saniye bekle"  parameterizedStepValue:"<> saniye bekle"  parameters:""}}
+05-12-2021 22:20:59.115 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"\"3\" saniye bekle"}
+05-12-2021 22:20:59.115 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"{} saniye bekle"  parameterizedStepValue:"<3> saniye bekle"  parameters:"3"}}
+05-12-2021 22:21:04.414 [Gauge] [DEBUG] Spec file added / modified: C:\Users\testinium\IdeaProjects\OzdilekteyimMobilApp\specs\example.spec
+05-12-2021 22:21:04.436 [Gauge] [DEBUG] Spec file added / modified: C:\Users\testinium\IdeaProjects\OzdilekteyimMobilApp\specs\example.spec
