@@ -9,6 +9,8 @@ import org.openqa.selenium.WebElement;
 import org.openqa.selenium.interactions.touch.TouchActions;
 
 import java.util.HashMap;
+import java.util.List;
+import java.util.Random;
 import java.util.concurrent.TimeUnit;
 
 public class BasePage extends BaseTest {
@@ -47,12 +49,23 @@ public class BasePage extends BaseTest {
         int startx =536;
         int starty=1616;
         int endx =536;
-        int endy =0;
+        int endy =359;
         TouchAction touchAction = new TouchAction(appiumDriver);
         touchAction.longPress(PointOption.point(startx, starty))
                 .moveTo(PointOption.point(endx, endy))
                 .release().perform();
 
+
+    }
+    @Step("<random> ürünü sec")
+    public void random(String random){
+        List<MobileElement> element=appiumDriver.findElementsByClassName(random);
+        int size = element.size();
+        Random rnd = new Random();
+        int RandomNumber = rnd.nextInt(size);
+        element.get(RandomNumber).click();
+        System.out.println("*****************ürün secildi*************************");
+        System.out.println(size + "element size *****************");
 
     }
 

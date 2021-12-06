@@ -15,8 +15,8 @@ login
 * "2" saniye bekle
 * Scroll Yap
 *"5" saniye bekle
-* "/hierarchy/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout[1]/android.widget.FrameLayout/android.widget.FrameLayout/android.view.ViewGroup/android.widget.LinearLayout[2]/androidx.recyclerview.widget.RecyclerView/android.widget.FrameLayout[4]/android.view.ViewGroup" xpath elementine tıkla
-* "5" saniye bekle
+*"android.widget.ImageView" ürünü sec
+*"10" saniye bekle
 *"com.ozdilek.ozdilekteyim:id/imgFav" id'li elemente tıkla
 *"5" saniye bekle
 *"com.ozdilek.ozdilekteyim:id/etEposta"'li elemente "appiumdeneme@hotmail.com" degerini yaz
