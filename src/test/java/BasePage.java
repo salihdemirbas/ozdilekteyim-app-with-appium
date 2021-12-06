@@ -29,4 +29,10 @@ public class BasePage extends BaseTest {
         appiumDriver.findElement(By.xpath(xpath)).click();
         System.out.println("Random ürün seçildi...");
     }
+    @Step("<id>'li elemente <text> degerini yaz")
+    public void sendKeys(String id,String text){
+        appiumDriver.findElement(By.id(id)).sendKeys(text);
+        System.out.println("İlgili parametre yazıldı...");
+    }
+
 }
