@@ -15,7 +15,7 @@ login
 * "2" saniye bekle
 * Scroll Yap
 *"5" saniye bekle
-*"android.view.ViewGroup" ürünü sec
+*"com.ozdilek.ozdilekteyim:id/imageView" ürünü sec
 *"10" saniye bekle
 *"com.ozdilek.ozdilekteyim:id/imgFav" id'li elemente tıkla
 *"5" saniye bekle
@@ -26,8 +26,8 @@ login
 *"com.ozdilek.ozdilekteyim:id/ivBack" id'li elemente tıkla
 *"3" saniye bekle
 *"com.ozdilek.ozdilekteyim:id/ivBack" id'li elemente tıkla
-*"5" saniye bekle
-*"android.widget.ImageView" ürünü sec
+*"10" saniye bekle
+*"com.ozdilek.ozdilekteyim:id/imageView" ürünü sec
 *"3" saniye bekle
 *"com.ozdilek.ozdilekteyim:id/tvInSizeItem" beden sec
 *"3" saniye bekle

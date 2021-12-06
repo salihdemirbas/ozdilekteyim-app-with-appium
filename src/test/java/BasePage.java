@@ -62,7 +62,7 @@ public class BasePage extends BaseTest {
     }
     @Step("<random> ürünü sec")
     public void random(String random){
-        List<MobileElement> element=appiumDriver.findElementsByClassName(random);
+        List<MobileElement> element=appiumDriver.findElementsById(random);
         int size = element.size();
         Random rnd = new Random();
         int RandomNumber = rnd.nextInt(size);
