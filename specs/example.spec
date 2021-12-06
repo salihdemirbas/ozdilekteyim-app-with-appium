@@ -27,6 +27,12 @@ login
 *"3" saniye bekle
 *"com.ozdilek.ozdilekteyim:id/ivBack" id'li elemente tıkla
 *"5" saniye bekle
+*"android.widget.ImageView" ürünü sec
+*"3" saniye bekle
+*"com.ozdilek.ozdilekteyim:id/tvInSizeItem" beden sec
+*"3" saniye bekle
+*"com.ozdilek.ozdilekteyim:id/relLayAddCartBtn" id'li elemente tıkla
+*"5" saniye bekle
 
 
 

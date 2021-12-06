@@ -34,11 +34,6 @@ public class BasePage extends BaseTest {
         appiumDriver.findElement(By.xpath(xpath)).click();
         System.out.println(xpath + "xpath elementine tiklandi");
     }
-    @Step("<xpath> ile random ürün seç")
-    public void xpathRandom(String xpath){
-        appiumDriver.findElement(By.xpath(xpath)).click();
-        System.out.println("Random ürün seçildi...");
-    }
     @Step("<id>'li elemente <text> degerini yaz")
     public void sendKeys(String id,String text){
         appiumDriver.findElement(By.id(id)).sendKeys(text);
@@ -54,6 +49,7 @@ public class BasePage extends BaseTest {
         touchAction.longPress(PointOption.point(startx, starty))
                 .moveTo(PointOption.point(endx, endy))
                 .release().perform();
+        System.out.println("--------------------------------------");
         int startx_new =546;
         int starty_new=1963;
         int endx_new =546;
@@ -74,6 +70,15 @@ public class BasePage extends BaseTest {
         System.out.println("*****************ürün secildi*************************");
         System.out.println(size + "element size *****************");
 
+    }
+    @Step("<random> beden sec")
+    public void randomBedenSec(String random){
+        List<MobileElement> element=appiumDriver.findElementsById(random);
+        int size = element.size();
+        Random rnd = new Random();
+        int RandomNumber = rnd.nextInt(size);
+        element.get(RandomNumber).click();
+        System.out.println("Pantolon bedeni başarıyla seçildi....");
     }
 
 
