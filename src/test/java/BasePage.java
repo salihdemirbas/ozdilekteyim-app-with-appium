@@ -1,11 +1,19 @@
 import com.thoughtworks.gauge.Step;
 import io.appium.java_client.MobileElement;
+import io.appium.java_client.TouchAction;
+import io.appium.java_client.touch.offset.PointOption;
 import org.junit.Assert;
 import org.openqa.selenium.By;
+import org.openqa.selenium.JavascriptExecutor;
+import org.openqa.selenium.WebElement;
+import org.openqa.selenium.interactions.touch.TouchActions;
 
+import java.util.HashMap;
 import java.util.concurrent.TimeUnit;
 
 public class BasePage extends BaseTest {
+
+    //-------------------------------------------------------------
 
     @Step("<id> id'li elemente tıkla")
     public void tikla(String id) {
@@ -34,5 +42,21 @@ public class BasePage extends BaseTest {
         appiumDriver.findElement(By.id(id)).sendKeys(text);
         System.out.println("İlgili parametre yazıldı...");
     }
+    @Step("Scroll Yap")
+    public void scroll(){
+        int startx =536;
+        int starty=1616;
+        int endx =536;
+        int endy =0;
+        TouchAction touchAction = new TouchAction(appiumDriver);
+        touchAction.longPress(PointOption.point(startx, starty))
+                .moveTo(PointOption.point(endx, endy))
+                .release().perform();
 
-}
+
+    }
+
+
+    }
+
+
