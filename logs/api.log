@@ -4466,3 +4466,347 @@
 06-12-2021 15:25:29.471 [Gauge] [DEBUG] Sending API response: messageType:GetAllConceptsResponse  messageId:6  allConceptsResponse:{}
 06-12-2021 15:25:47.431 [Gauge] [DEBUG] Spec file added / modified: C:\Users\testinium\IdeaProjects\OzdilekteyimMobilApp\specs\example.spec
 06-12-2021 15:25:47.450 [Gauge] [DEBUG] Spec file added / modified: C:\Users\testinium\IdeaProjects\OzdilekteyimMobilApp\specs\example.spec
+06-12-2021 16:01:41.265 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"<random> beden sec"}
+06-12-2021 16:01:41.272 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"{} beden sec"  parameterizedStepValue:"<random> beden sec"  parameters:"random"}}
+06-12-2021 16:03:59.573 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{}
+06-12-2021 16:03:59.575 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{}}
+06-12-2021 16:03:59.589 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{}
+06-12-2021 16:03:59.589 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{}}
+06-12-2021 16:03:59.625 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{}
+06-12-2021 16:03:59.625 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{}}
+06-12-2021 16:03:59.625 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{}
+06-12-2021 16:03:59.625 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{}}
+06-12-2021 16:03:59.651 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{}
+06-12-2021 16:03:59.652 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{}}
+06-12-2021 16:03:59.652 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{}
+06-12-2021 16:03:59.653 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{}}
+06-12-2021 16:03:59.654 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{}
+06-12-2021 16:03:59.654 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{}}
+06-12-2021 16:03:59.878 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{}
+06-12-2021 16:03:59.878 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{}}
+06-12-2021 16:03:59.886 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{}
+06-12-2021 16:03:59.887 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{}}
+06-12-2021 16:03:59.888 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{}
+06-12-2021 16:03:59.888 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{}}
+06-12-2021 16:03:59.918 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{}
+06-12-2021 16:03:59.919 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{}}
+06-12-2021 16:03:59.919 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{}
+06-12-2021 16:03:59.919 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{}}
+06-12-2021 16:03:59.940 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{}
+06-12-2021 16:03:59.941 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{}}
+06-12-2021 16:03:59.941 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{}
+06-12-2021 16:03:59.942 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{}}
+06-12-2021 16:04:00.939 [Gauge] [DEBUG] Api Request Received: messageType:GetAllStepsRequest  messageId:2  allStepsRequest:{}
+06-12-2021 16:04:00.941 [Gauge] [DEBUG] Sending API response: messageType:GetAllStepResponse  messageId:2  allStepsResponse:{allSteps:{stepValue:"{} xpath elementine tıkla"  parameterizedStepValue:"<//*[@text='Pantolon']> xpath elementine tıkla"  parameters:"//*[@text='Pantolon']"}  allSteps:{stepValue:"Scroll Yap"  parameterizedStepValue:"Scroll Yap"}  allSteps:{stepValue:"{} ürünü sec"  parameterizedStepValue:"<android.widget.ImageView> ürünü sec"  parameters:"android.widget.ImageView"}  allSteps:{stepValue:"{}'li elemente {} degerini yaz"  parameterizedStepValue:"<com.ozdilek.ozdilekteyim:id/etPassword>'li elemente <appiumDeneme16> degerini yaz"  parameters:"com.ozdilek.ozdilekteyim:id/etPassword"  parameters:"appiumDeneme16"}  allSteps:{stepValue:"{} saniye bekle"  parameterizedStepValue:"<5> saniye bekle"  parameters:"5"}  allSteps:{stepValue:"{} id'li elemente tıkla"  parameterizedStepValue:"<com.ozdilek.ozdilekteyim:id/ivBack> id'li elemente tıkla"  parameters:"com.ozdilek.ozdilekteyim:id/ivBack"}}
+06-12-2021 16:04:00.942 [Gauge] [DEBUG] Api Request Received: messageType:GetAllConceptsRequest  messageId:6  allConceptsRequest:{}
+06-12-2021 16:04:00.943 [Gauge] [DEBUG] Sending API response: messageType:GetAllConceptsResponse  messageId:6  allConceptsResponse:{}
+06-12-2021 16:04:03.943 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"beden sec"}
+06-12-2021 16:04:03.943 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"beden sec"  parameterizedStepValue:"beden sec"}}
+06-12-2021 16:04:04.115 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"\"\" beden sec"}
+06-12-2021 16:04:04.115 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"{} beden sec"  parameterizedStepValue:"<> beden sec"  parameters:""}}
+06-12-2021 16:04:05.316 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"\"*\"android.widget.ImageView\" ürünü sec\" beden sec"}
+06-12-2021 16:04:05.316 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"{}android.widget.ImageView{} beden sec"  parameterizedStepValue:"<*>android.widget.ImageView< ürünü sec> beden sec"  parameters:"*"  parameters:" ürünü sec"}}
+06-12-2021 16:04:11.951 [Gauge] [DEBUG] Spec file added / modified: C:\Users\testinium\IdeaProjects\OzdilekteyimMobilApp\specs\example.spec
+06-12-2021 16:04:12.259 [Gauge] [DEBUG] Spec file added / modified: C:\Users\testinium\IdeaProjects\OzdilekteyimMobilApp\specs\example.spec
+06-12-2021 16:04:15.959 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"\"com.ozdilek.ozdilekteyim:id/tvInSizeItem\" beden sec"}
+06-12-2021 16:04:15.960 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"{} beden sec"  parameterizedStepValue:"<com.ozdilek.ozdilekteyim:id/tvInSizeItem> beden sec"  parameters:"com.ozdilek.ozdilekteyim:id/tvInSizeItem"}}
+06-12-2021 16:04:20.080 [Gauge] [DEBUG] Spec file added / modified: C:\Users\testinium\IdeaProjects\OzdilekteyimMobilApp\specs\example.spec
+06-12-2021 16:04:20.095 [Gauge] [DEBUG] Spec file added / modified: C:\Users\testinium\IdeaProjects\OzdilekteyimMobilApp\specs\example.spec
+06-12-2021 16:04:21.601 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{}
+06-12-2021 16:04:21.603 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{}}
+06-12-2021 16:04:21.610 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{}
+06-12-2021 16:04:21.611 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{}}
+06-12-2021 16:04:21.643 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{}
+06-12-2021 16:04:21.644 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{}}
+06-12-2021 16:04:21.644 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{}
+06-12-2021 16:04:21.645 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{}}
+06-12-2021 16:04:21.676 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{}
+06-12-2021 16:04:21.676 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{}}
+06-12-2021 16:04:21.676 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{}
+06-12-2021 16:04:21.676 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{}}
+06-12-2021 16:04:21.676 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{}
+06-12-2021 16:04:21.676 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{}}
+06-12-2021 16:04:21.881 [Gauge] [DEBUG] Api Request Received: messageType:GetAllStepsRequest  messageId:2  allStepsRequest:{}
+06-12-2021 16:04:21.881 [Gauge] [DEBUG] Sending API response: messageType:GetAllStepResponse  messageId:2  allStepsResponse:{allSteps:{stepValue:"{} xpath elementine tıkla"  parameterizedStepValue:"<//*[@text='Pantolon']> xpath elementine tıkla"  parameters:"//*[@text='Pantolon']"}  allSteps:{stepValue:"Scroll Yap"  parameterizedStepValue:"Scroll Yap"}  allSteps:{stepValue:"{} ürünü sec"  parameterizedStepValue:"<android.widget.ImageView> ürünü sec"  parameters:"android.widget.ImageView"}  allSteps:{stepValue:"{}'li elemente {} degerini yaz"  parameterizedStepValue:"<com.ozdilek.ozdilekteyim:id/etPassword>'li elemente <appiumDeneme16> degerini yaz"  parameters:"com.ozdilek.ozdilekteyim:id/etPassword"  parameters:"appiumDeneme16"}  allSteps:{stepValue:"{} beden sec"  parameterizedStepValue:"<com.ozdilek.ozdilekteyim:id/tvInSizeItem> beden sec"  parameters:"com.ozdilek.ozdilekteyim:id/tvInSizeItem"}  allSteps:{stepValue:"{} saniye bekle"  parameterizedStepValue:"<5> saniye bekle"  parameters:"5"}  allSteps:{stepValue:"{} id'li elemente tıkla"  parameterizedStepValue:"<com.ozdilek.ozdilekteyim:id/ivBack> id'li elemente tıkla"  parameters:"com.ozdilek.ozdilekteyim:id/ivBack"}}
+06-12-2021 16:04:21.883 [Gauge] [DEBUG] Api Request Received: messageType:GetAllConceptsRequest  messageId:6  allConceptsRequest:{}
+06-12-2021 16:04:21.883 [Gauge] [DEBUG] Sending API response: messageType:GetAllConceptsResponse  messageId:6  allConceptsResponse:{}
+06-12-2021 16:04:32.967 [Gauge] [DEBUG] Spec file added / modified: C:\Users\testinium\IdeaProjects\OzdilekteyimMobilApp\specs\example.spec
+06-12-2021 16:04:32.993 [Gauge] [DEBUG] Spec file added / modified: C:\Users\testinium\IdeaProjects\OzdilekteyimMobilApp\specs\example.spec
+06-12-2021 16:04:34.901 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{}
+06-12-2021 16:04:34.902 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{}}
+06-12-2021 16:04:34.906 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{}
+06-12-2021 16:04:34.906 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{}}
+06-12-2021 16:04:34.937 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{}
+06-12-2021 16:04:34.937 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{}}
+06-12-2021 16:04:34.938 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{}
+06-12-2021 16:04:34.938 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{}}
+06-12-2021 16:04:34.966 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{}
+06-12-2021 16:04:34.966 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{}}
+06-12-2021 16:04:34.966 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{}
+06-12-2021 16:04:34.966 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{}}
+06-12-2021 16:04:34.966 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{}
+06-12-2021 16:04:34.967 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{}}
+06-12-2021 16:04:35.210 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{}
+06-12-2021 16:04:35.211 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{}}
+06-12-2021 16:04:35.221 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{}
+06-12-2021 16:04:35.221 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{}}
+06-12-2021 16:04:35.221 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{}
+06-12-2021 16:04:35.221 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{}}
+06-12-2021 16:04:35.244 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{}
+06-12-2021 16:04:35.245 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{}}
+06-12-2021 16:04:35.245 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{}
+06-12-2021 16:04:35.246 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{}}
+06-12-2021 16:04:35.267 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{}
+06-12-2021 16:04:35.268 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{}}
+06-12-2021 16:04:35.268 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{}
+06-12-2021 16:04:35.268 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{}}
+06-12-2021 16:04:36.778 [Gauge] [DEBUG] Api Request Received: messageType:GetAllStepsRequest  messageId:2  allStepsRequest:{}
+06-12-2021 16:04:36.779 [Gauge] [DEBUG] Sending API response: messageType:GetAllStepResponse  messageId:2  allStepsResponse:{allSteps:{stepValue:"{} ürünü sec"  parameterizedStepValue:"<android.widget.ImageView> ürünü sec"  parameters:"android.widget.ImageView"}  allSteps:{stepValue:"{}'li elemente {} degerini yaz"  parameterizedStepValue:"<com.ozdilek.ozdilekteyim:id/etPassword>'li elemente <appiumDeneme16> degerini yaz"  parameters:"com.ozdilek.ozdilekteyim:id/etPassword"  parameters:"appiumDeneme16"}  allSteps:{stepValue:"{} beden sec"  parameterizedStepValue:"<com.ozdilek.ozdilekteyim:id/tvInSizeItem> beden sec"  parameters:"com.ozdilek.ozdilekteyim:id/tvInSizeItem"}  allSteps:{stepValue:"{} saniye bekle"  parameterizedStepValue:"<3> saniye bekle"  parameters:"3"}  allSteps:{stepValue:"{} id'li elemente tıkla"  parameterizedStepValue:"<com.ozdilek.ozdilekteyim:id/ivBack> id'li elemente tıkla"  parameters:"com.ozdilek.ozdilekteyim:id/ivBack"}  allSteps:{stepValue:"{} xpath elementine tıkla"  parameterizedStepValue:"<//*[@text='Pantolon']> xpath elementine tıkla"  parameters:"//*[@text='Pantolon']"}  allSteps:{stepValue:"Scroll Yap"  parameterizedStepValue:"Scroll Yap"}}
+06-12-2021 16:04:36.779 [Gauge] [DEBUG] Api Request Received: messageType:GetAllConceptsRequest  messageId:6  allConceptsRequest:{}
+06-12-2021 16:04:36.779 [Gauge] [DEBUG] Sending API response: messageType:GetAllConceptsResponse  messageId:6  allConceptsResponse:{}
+06-12-2021 16:04:44.400 [Gauge] [DEBUG] Spec file added / modified: C:\Users\testinium\IdeaProjects\OzdilekteyimMobilApp\specs\example.spec
+06-12-2021 16:04:44.419 [Gauge] [DEBUG] Spec file added / modified: C:\Users\testinium\IdeaProjects\OzdilekteyimMobilApp\specs\example.spec
+06-12-2021 16:06:49.339 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{}
+06-12-2021 16:06:49.345 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{}}
+06-12-2021 16:06:49.767 [Gauge] [DEBUG] Api Request Received: messageType:GetAllStepsRequest  messageId:2  allStepsRequest:{}
+06-12-2021 16:06:49.771 [Gauge] [DEBUG] Sending API response: messageType:GetAllStepResponse  messageId:2  allStepsResponse:{allSteps:{stepValue:"{} saniye bekle"  parameterizedStepValue:"<3> saniye bekle"  parameters:"3"}  allSteps:{stepValue:"{} id'li elemente tıkla"  parameterizedStepValue:"<com.ozdilek.ozdilekteyim:id/ivBack> id'li elemente tıkla"  parameters:"com.ozdilek.ozdilekteyim:id/ivBack"}  allSteps:{stepValue:"{} xpath elementine tıkla"  parameterizedStepValue:"<//*[@text='Pantolon']> xpath elementine tıkla"  parameters:"//*[@text='Pantolon']"}  allSteps:{stepValue:"Scroll Yap"  parameterizedStepValue:"Scroll Yap"}  allSteps:{stepValue:"{} ürünü sec"  parameterizedStepValue:"<android.widget.ImageView> ürünü sec"  parameters:"android.widget.ImageView"}  allSteps:{stepValue:"{}'li elemente {} degerini yaz"  parameterizedStepValue:"<com.ozdilek.ozdilekteyim:id/etPassword>'li elemente <appiumDeneme16> degerini yaz"  parameters:"com.ozdilek.ozdilekteyim:id/etPassword"  parameters:"appiumDeneme16"}  allSteps:{stepValue:"{} beden sec"  parameterizedStepValue:"<com.ozdilek.ozdilekteyim:id/tvInSizeItem> beden sec"  parameters:"com.ozdilek.ozdilekteyim:id/tvInSizeItem"}}
+06-12-2021 16:06:49.774 [Gauge] [DEBUG] Api Request Received: messageType:GetAllConceptsRequest  messageId:6  allConceptsRequest:{}
+06-12-2021 16:06:49.774 [Gauge] [DEBUG] Sending API response: messageType:GetAllConceptsResponse  messageId:6  allConceptsResponse:{}
+06-12-2021 16:06:55.073 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"\"com.ozdilek.ozdilekteyim:id/relLayAddCartBtn\" id'li elemente tıkla"}
+06-12-2021 16:06:55.075 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"{} id'li elemente tıkla"  parameterizedStepValue:"<com.ozdilek.ozdilekteyim:id/relLayAddCartBtn> id'li elemente tıkla"  parameters:"com.ozdilek.ozdilekteyim:id/relLayAddCartBtn"}}
+06-12-2021 16:06:56.613 [Gauge] [DEBUG] Spec file added / modified: C:\Users\testinium\IdeaProjects\OzdilekteyimMobilApp\specs\example.spec
+06-12-2021 16:06:56.657 [Gauge] [DEBUG] Spec file added / modified: C:\Users\testinium\IdeaProjects\OzdilekteyimMobilApp\specs\example.spec
+06-12-2021 16:06:59.218 [Gauge] [DEBUG] Spec file added / modified: C:\Users\testinium\IdeaProjects\OzdilekteyimMobilApp\specs\example.spec
+06-12-2021 16:06:59.236 [Gauge] [DEBUG] Spec file added / modified: C:\Users\testinium\IdeaProjects\OzdilekteyimMobilApp\specs\example.spec
+06-12-2021 16:06:59.939 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{}
+06-12-2021 16:06:59.939 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{}}
+06-12-2021 16:06:59.945 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{}
+06-12-2021 16:06:59.945 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{}}
+06-12-2021 16:07:00.028 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{}
+06-12-2021 16:07:00.028 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{}}
+06-12-2021 16:07:00.029 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{}
+06-12-2021 16:07:00.029 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{}}
+06-12-2021 16:07:00.095 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{}
+06-12-2021 16:07:00.095 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{}}
+06-12-2021 16:07:00.098 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{}
+06-12-2021 16:07:00.099 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{}}
+06-12-2021 16:07:00.099 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{}
+06-12-2021 16:07:00.099 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{}}
+06-12-2021 16:07:00.260 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{}
+06-12-2021 16:07:00.260 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{}}
+06-12-2021 16:07:00.297 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{}
+06-12-2021 16:07:00.298 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{}}
+06-12-2021 16:07:00.674 [Gauge] [DEBUG] Api Request Received: messageType:GetAllStepsRequest  messageId:2  allStepsRequest:{}
+06-12-2021 16:07:00.674 [Gauge] [DEBUG] Sending API response: messageType:GetAllStepResponse  messageId:2  allStepsResponse:{allSteps:{stepValue:"{} beden sec"  parameterizedStepValue:"<com.ozdilek.ozdilekteyim:id/tvInSizeItem> beden sec"  parameters:"com.ozdilek.ozdilekteyim:id/tvInSizeItem"}  allSteps:{stepValue:"{} saniye bekle"  parameterizedStepValue:"<3> saniye bekle"  parameters:"3"}  allSteps:{stepValue:"{} id'li elemente tıkla"  parameterizedStepValue:"<com.ozdilek.ozdilekteyim:id/relLayAddCartBtn> id'li elemente tıkla"  parameters:"com.ozdilek.ozdilekteyim:id/relLayAddCartBtn"}  allSteps:{stepValue:"{} xpath elementine tıkla"  parameterizedStepValue:"<//*[@text='Pantolon']> xpath elementine tıkla"  parameters:"//*[@text='Pantolon']"}  allSteps:{stepValue:"Scroll Yap"  parameterizedStepValue:"Scroll Yap"}  allSteps:{stepValue:"{} ürünü sec"  parameterizedStepValue:"<android.widget.ImageView> ürünü sec"  parameters:"android.widget.ImageView"}  allSteps:{stepValue:"{}'li elemente {} degerini yaz"  parameterizedStepValue:"<com.ozdilek.ozdilekteyim:id/etPassword>'li elemente <appiumDeneme16> degerini yaz"  parameters:"com.ozdilek.ozdilekteyim:id/etPassword"  parameters:"appiumDeneme16"}}
+06-12-2021 16:07:00.674 [Gauge] [DEBUG] Api Request Received: messageType:GetAllConceptsRequest  messageId:6  allConceptsRequest:{}
+06-12-2021 16:07:00.675 [Gauge] [DEBUG] Sending API response: messageType:GetAllConceptsResponse  messageId:6  allConceptsResponse:{}
+06-12-2021 16:07:10.251 [Gauge] [DEBUG] Spec file added / modified: C:\Users\testinium\IdeaProjects\OzdilekteyimMobilApp\specs\example.spec
+06-12-2021 16:07:10.253 [Gauge] [DEBUG] Spec file added / modified: C:\Users\testinium\IdeaProjects\OzdilekteyimMobilApp\specs\example.spec
+06-12-2021 16:19:15.384 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"\"a"}
+06-12-2021 16:19:15.389 [Gauge] [DEBUG] Sending API response: messageType:ErrorResponse  messageId:4  error:{error:"String not terminated"}
+06-12-2021 16:19:15.543 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"\"a"}
+06-12-2021 16:19:15.543 [Gauge] [DEBUG] Sending API response: messageType:ErrorResponse  messageId:4  error:{error:"String not terminated"}
+06-12-2021 16:19:15.588 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"\"a"}
+06-12-2021 16:19:15.589 [Gauge] [DEBUG] Sending API response: messageType:ErrorResponse  messageId:4  error:{error:"String not terminated"}
+06-12-2021 16:19:15.617 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"\"a"}
+06-12-2021 16:19:15.618 [Gauge] [DEBUG] Sending API response: messageType:ErrorResponse  messageId:4  error:{error:"String not terminated"}
+06-12-2021 16:19:15.726 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"\"a"}
+06-12-2021 16:19:15.726 [Gauge] [DEBUG] Sending API response: messageType:ErrorResponse  messageId:4  error:{error:"String not terminated"}
+06-12-2021 16:19:15.726 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"\"a"}
+06-12-2021 16:19:15.726 [Gauge] [DEBUG] Sending API response: messageType:ErrorResponse  messageId:4  error:{error:"String not terminated"}
+06-12-2021 16:19:15.728 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"\"a"}
+06-12-2021 16:19:15.728 [Gauge] [DEBUG] Sending API response: messageType:ErrorResponse  messageId:4  error:{error:"String not terminated"}
+06-12-2021 16:19:15.788 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"\"a"}
+06-12-2021 16:19:15.789 [Gauge] [DEBUG] Sending API response: messageType:ErrorResponse  messageId:4  error:{error:"String not terminated"}
+06-12-2021 16:19:15.789 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"\"a"}
+06-12-2021 16:19:15.789 [Gauge] [DEBUG] Sending API response: messageType:ErrorResponse  messageId:4  error:{error:"String not terminated"}
+06-12-2021 16:19:15.789 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"\"a"}
+06-12-2021 16:19:15.789 [Gauge] [DEBUG] Sending API response: messageType:ErrorResponse  messageId:4  error:{error:"String not terminated"}
+06-12-2021 16:19:15.789 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"\"a"}
+06-12-2021 16:19:15.789 [Gauge] [DEBUG] Sending API response: messageType:ErrorResponse  messageId:4  error:{error:"String not terminated"}
+06-12-2021 16:19:15.860 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"\"a"}
+06-12-2021 16:19:15.860 [Gauge] [DEBUG] Sending API response: messageType:ErrorResponse  messageId:4  error:{error:"String not terminated"}
+06-12-2021 16:19:15.862 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"\"a"}
+06-12-2021 16:19:15.862 [Gauge] [DEBUG] Sending API response: messageType:ErrorResponse  messageId:4  error:{error:"String not terminated"}
+06-12-2021 16:19:15.901 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"\"a"}
+06-12-2021 16:19:15.901 [Gauge] [DEBUG] Sending API response: messageType:ErrorResponse  messageId:4  error:{error:"String not terminated"}
+06-12-2021 16:19:15.901 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"\"a"}
+06-12-2021 16:19:15.901 [Gauge] [DEBUG] Sending API response: messageType:ErrorResponse  messageId:4  error:{error:"String not terminated"}
+06-12-2021 16:19:17.953 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"\"a"}
+06-12-2021 16:19:17.954 [Gauge] [DEBUG] Sending API response: messageType:ErrorResponse  messageId:4  error:{error:"String not terminated"}
+06-12-2021 16:19:17.954 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"\"a"}
+06-12-2021 16:19:17.954 [Gauge] [DEBUG] Sending API response: messageType:ErrorResponse  messageId:4  error:{error:"String not terminated"}
+06-12-2021 16:19:17.984 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"\"a"}
+06-12-2021 16:19:17.985 [Gauge] [DEBUG] Sending API response: messageType:ErrorResponse  messageId:4  error:{error:"String not terminated"}
+06-12-2021 16:19:17.986 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"\"a"}
+06-12-2021 16:19:17.987 [Gauge] [DEBUG] Sending API response: messageType:ErrorResponse  messageId:4  error:{error:"String not terminated"}
+06-12-2021 16:19:18.005 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"\"a"}
+06-12-2021 16:19:18.005 [Gauge] [DEBUG] Sending API response: messageType:ErrorResponse  messageId:4  error:{error:"String not terminated"}
+06-12-2021 16:19:18.006 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"\"a"}
+06-12-2021 16:19:18.006 [Gauge] [DEBUG] Sending API response: messageType:ErrorResponse  messageId:4  error:{error:"String not terminated"}
+06-12-2021 16:19:18.033 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"\"a"}
+06-12-2021 16:19:18.033 [Gauge] [DEBUG] Sending API response: messageType:ErrorResponse  messageId:4  error:{error:"String not terminated"}
+06-12-2021 16:19:18.034 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"\"a"}
+06-12-2021 16:19:18.035 [Gauge] [DEBUG] Sending API response: messageType:ErrorResponse  messageId:4  error:{error:"String not terminated"}
+06-12-2021 16:19:18.392 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"\"a"}
+06-12-2021 16:19:18.392 [Gauge] [DEBUG] Sending API response: messageType:ErrorResponse  messageId:4  error:{error:"String not terminated"}
+06-12-2021 16:19:18.393 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"\"a"}
+06-12-2021 16:19:18.393 [Gauge] [DEBUG] Sending API response: messageType:ErrorResponse  messageId:4  error:{error:"String not terminated"}
+06-12-2021 16:19:18.418 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"\"a"}
+06-12-2021 16:19:18.418 [Gauge] [DEBUG] Sending API response: messageType:ErrorResponse  messageId:4  error:{error:"String not terminated"}
+06-12-2021 16:19:18.419 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"\"a"}
+06-12-2021 16:19:18.419 [Gauge] [DEBUG] Sending API response: messageType:ErrorResponse  messageId:4  error:{error:"String not terminated"}
+06-12-2021 16:19:18.440 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"\"a"}
+06-12-2021 16:19:18.441 [Gauge] [DEBUG] Sending API response: messageType:ErrorResponse  messageId:4  error:{error:"String not terminated"}
+06-12-2021 16:19:18.441 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"\"a"}
+06-12-2021 16:19:18.442 [Gauge] [DEBUG] Sending API response: messageType:ErrorResponse  messageId:4  error:{error:"String not terminated"}
+06-12-2021 16:19:18.609 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"\"a"}
+06-12-2021 16:19:18.610 [Gauge] [DEBUG] Sending API response: messageType:ErrorResponse  messageId:4  error:{error:"String not terminated"}
+06-12-2021 16:19:18.610 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"\"a"}
+06-12-2021 16:19:18.610 [Gauge] [DEBUG] Sending API response: messageType:ErrorResponse  messageId:4  error:{error:"String not terminated"}
+06-12-2021 16:19:18.634 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"\"a"}
+06-12-2021 16:19:18.635 [Gauge] [DEBUG] Sending API response: messageType:ErrorResponse  messageId:4  error:{error:"String not terminated"}
+06-12-2021 16:19:18.635 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"\"a"}
+06-12-2021 16:19:18.635 [Gauge] [DEBUG] Sending API response: messageType:ErrorResponse  messageId:4  error:{error:"String not terminated"}
+06-12-2021 16:19:18.654 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"\"a"}
+06-12-2021 16:19:18.654 [Gauge] [DEBUG] Sending API response: messageType:ErrorResponse  messageId:4  error:{error:"String not terminated"}
+06-12-2021 16:19:18.654 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"\"a"}
+06-12-2021 16:19:18.656 [Gauge] [DEBUG] Sending API response: messageType:ErrorResponse  messageId:4  error:{error:"String not terminated"}
+06-12-2021 16:19:18.674 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"\"a"}
+06-12-2021 16:19:18.674 [Gauge] [DEBUG] Sending API response: messageType:ErrorResponse  messageId:4  error:{error:"String not terminated"}
+06-12-2021 16:19:18.675 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"\"a"}
+06-12-2021 16:19:18.675 [Gauge] [DEBUG] Sending API response: messageType:ErrorResponse  messageId:4  error:{error:"String not terminated"}
+06-12-2021 16:19:18.952 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"\"a"}
+06-12-2021 16:19:18.952 [Gauge] [DEBUG] Sending API response: messageType:ErrorResponse  messageId:4  error:{error:"String not terminated"}
+06-12-2021 16:19:18.952 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"\"a"}
+06-12-2021 16:19:18.952 [Gauge] [DEBUG] Sending API response: messageType:ErrorResponse  messageId:4  error:{error:"String not terminated"}
+06-12-2021 16:19:18.977 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"\"a"}
+06-12-2021 16:19:18.977 [Gauge] [DEBUG] Sending API response: messageType:ErrorResponse  messageId:4  error:{error:"String not terminated"}
+06-12-2021 16:19:18.979 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"\"a"}
+06-12-2021 16:19:18.979 [Gauge] [DEBUG] Sending API response: messageType:ErrorResponse  messageId:4  error:{error:"String not terminated"}
+06-12-2021 16:19:19.002 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"\"a"}
+06-12-2021 16:19:19.002 [Gauge] [DEBUG] Sending API response: messageType:ErrorResponse  messageId:4  error:{error:"String not terminated"}
+06-12-2021 16:19:19.003 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"\"a"}
+06-12-2021 16:19:19.004 [Gauge] [DEBUG] Sending API response: messageType:ErrorResponse  messageId:4  error:{error:"String not terminated"}
+06-12-2021 16:19:20.316 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"\"a"}
+06-12-2021 16:19:20.316 [Gauge] [DEBUG] Sending API response: messageType:ErrorResponse  messageId:4  error:{error:"String not terminated"}
+06-12-2021 16:19:20.323 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"\"a"}
+06-12-2021 16:19:20.323 [Gauge] [DEBUG] Sending API response: messageType:ErrorResponse  messageId:4  error:{error:"String not terminated"}
+06-12-2021 16:19:20.344 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"\"a"}
+06-12-2021 16:19:20.344 [Gauge] [DEBUG] Sending API response: messageType:ErrorResponse  messageId:4  error:{error:"String not terminated"}
+06-12-2021 16:19:20.345 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"\"a"}
+06-12-2021 16:19:20.345 [Gauge] [DEBUG] Sending API response: messageType:ErrorResponse  messageId:4  error:{error:"String not terminated"}
+06-12-2021 16:19:20.363 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"\"a"}
+06-12-2021 16:19:20.364 [Gauge] [DEBUG] Sending API response: messageType:ErrorResponse  messageId:4  error:{error:"String not terminated"}
+06-12-2021 16:19:20.364 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"\"a"}
+06-12-2021 16:19:20.364 [Gauge] [DEBUG] Sending API response: messageType:ErrorResponse  messageId:4  error:{error:"String not terminated"}
+06-12-2021 16:19:20.392 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"\"a"}
+06-12-2021 16:19:20.392 [Gauge] [DEBUG] Sending API response: messageType:ErrorResponse  messageId:4  error:{error:"String not terminated"}
+06-12-2021 16:19:20.393 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"\"a"}
+06-12-2021 16:19:20.393 [Gauge] [DEBUG] Sending API response: messageType:ErrorResponse  messageId:4  error:{error:"String not terminated"}
+06-12-2021 16:19:20.634 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"\"a"}
+06-12-2021 16:19:20.635 [Gauge] [DEBUG] Sending API response: messageType:ErrorResponse  messageId:4  error:{error:"String not terminated"}
+06-12-2021 16:19:20.638 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"\"a"}
+06-12-2021 16:19:20.638 [Gauge] [DEBUG] Sending API response: messageType:ErrorResponse  messageId:4  error:{error:"String not terminated"}
+06-12-2021 16:19:20.639 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"\"a"}
+06-12-2021 16:19:20.639 [Gauge] [DEBUG] Sending API response: messageType:ErrorResponse  messageId:4  error:{error:"String not terminated"}
+06-12-2021 16:19:20.657 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"\"a"}
+06-12-2021 16:19:20.657 [Gauge] [DEBUG] Sending API response: messageType:ErrorResponse  messageId:4  error:{error:"String not terminated"}
+06-12-2021 16:19:20.658 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"\"a"}
+06-12-2021 16:19:20.658 [Gauge] [DEBUG] Sending API response: messageType:ErrorResponse  messageId:4  error:{error:"String not terminated"}
+06-12-2021 16:19:20.677 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"\"a"}
+06-12-2021 16:19:20.677 [Gauge] [DEBUG] Sending API response: messageType:ErrorResponse  messageId:4  error:{error:"String not terminated"}
+06-12-2021 16:19:20.678 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"\"a"}
+06-12-2021 16:19:20.678 [Gauge] [DEBUG] Sending API response: messageType:ErrorResponse  messageId:4  error:{error:"String not terminated"}
+06-12-2021 16:19:20.853 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"\"a\tndroid.view.ViewGroup ürünü sec"}
+06-12-2021 16:19:20.854 [Gauge] [DEBUG] Sending API response: messageType:ErrorResponse  messageId:4  error:{error:"String not terminated"}
+06-12-2021 16:19:20.858 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"\"a\tndroid.view.ViewGroup ürünü sec"}
+06-12-2021 16:19:20.859 [Gauge] [DEBUG] Sending API response: messageType:ErrorResponse  messageId:4  error:{error:"String not terminated"}
+06-12-2021 16:19:20.879 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"\"a\tndroid.view.ViewGroup ürünü sec"}
+06-12-2021 16:19:20.879 [Gauge] [DEBUG] Sending API response: messageType:ErrorResponse  messageId:4  error:{error:"String not terminated"}
+06-12-2021 16:19:20.880 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"\"a\tndroid.view.ViewGroup ürünü sec"}
+06-12-2021 16:19:20.880 [Gauge] [DEBUG] Sending API response: messageType:ErrorResponse  messageId:4  error:{error:"String not terminated"}
+06-12-2021 16:19:20.899 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"\"a\tndroid.view.ViewGroup ürünü sec"}
+06-12-2021 16:19:20.900 [Gauge] [DEBUG] Sending API response: messageType:ErrorResponse  messageId:4  error:{error:"String not terminated"}
+06-12-2021 16:19:20.900 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"\"a\tndroid.view.ViewGroup ürünü sec"}
+06-12-2021 16:19:20.900 [Gauge] [DEBUG] Sending API response: messageType:ErrorResponse  messageId:4  error:{error:"String not terminated"}
+06-12-2021 16:19:20.918 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"\"a\tndroid.view.ViewGroup ürünü sec"}
+06-12-2021 16:19:20.918 [Gauge] [DEBUG] Sending API response: messageType:ErrorResponse  messageId:4  error:{error:"String not terminated"}
+06-12-2021 16:19:20.919 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"\"a\tndroid.view.ViewGroup ürünü sec"}
+06-12-2021 16:19:20.919 [Gauge] [DEBUG] Sending API response: messageType:ErrorResponse  messageId:4  error:{error:"String not terminated"}
+06-12-2021 16:19:21.175 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"\"a\tndroid.view.ViewGroup ürünü sec"}
+06-12-2021 16:19:21.175 [Gauge] [DEBUG] Sending API response: messageType:ErrorResponse  messageId:4  error:{error:"String not terminated"}
+06-12-2021 16:19:21.177 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"\"a\tndroid.view.ViewGroup ürünü sec"}
+06-12-2021 16:19:21.178 [Gauge] [DEBUG] Sending API response: messageType:ErrorResponse  messageId:4  error:{error:"String not terminated"}
+06-12-2021 16:19:21.178 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"\"a\tndroid.view.ViewGroup ürünü sec"}
+06-12-2021 16:19:21.178 [Gauge] [DEBUG] Sending API response: messageType:ErrorResponse  messageId:4  error:{error:"String not terminated"}
+06-12-2021 16:19:21.199 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"\"a\tndroid.view.ViewGroup ürünü sec"}
+06-12-2021 16:19:21.199 [Gauge] [DEBUG] Sending API response: messageType:ErrorResponse  messageId:4  error:{error:"String not terminated"}
+06-12-2021 16:19:21.199 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"\"a\tndroid.view.ViewGroup ürünü sec"}
+06-12-2021 16:19:21.199 [Gauge] [DEBUG] Sending API response: messageType:ErrorResponse  messageId:4  error:{error:"String not terminated"}
+06-12-2021 16:19:21.216 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"\"a\tndroid.view.ViewGroup ürünü sec"}
+06-12-2021 16:19:21.217 [Gauge] [DEBUG] Sending API response: messageType:ErrorResponse  messageId:4  error:{error:"String not terminated"}
+06-12-2021 16:19:21.217 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"\"a\tndroid.view.ViewGroup ürünü sec"}
+06-12-2021 16:19:21.217 [Gauge] [DEBUG] Sending API response: messageType:ErrorResponse  messageId:4  error:{error:"String not terminated"}
+06-12-2021 16:19:21.381 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"\"android.view.ViewGroup ürünü sec"}
+06-12-2021 16:19:21.382 [Gauge] [DEBUG] Sending API response: messageType:ErrorResponse  messageId:4  error:{error:"String not terminated"}
+06-12-2021 16:19:21.384 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"\"android.view.ViewGroup ürünü sec"}
+06-12-2021 16:19:21.384 [Gauge] [DEBUG] Sending API response: messageType:ErrorResponse  messageId:4  error:{error:"String not terminated"}
+06-12-2021 16:19:21.403 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"\"android.view.ViewGroup ürünü sec"}
+06-12-2021 16:19:21.404 [Gauge] [DEBUG] Sending API response: messageType:ErrorResponse  messageId:4  error:{error:"String not terminated"}
+06-12-2021 16:19:21.405 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"\"android.view.ViewGroup ürünü sec"}
+06-12-2021 16:19:21.405 [Gauge] [DEBUG] Sending API response: messageType:ErrorResponse  messageId:4  error:{error:"String not terminated"}
+06-12-2021 16:19:21.425 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"\"android.view.ViewGroup ürünü sec"}
+06-12-2021 16:19:21.425 [Gauge] [DEBUG] Sending API response: messageType:ErrorResponse  messageId:4  error:{error:"String not terminated"}
+06-12-2021 16:19:21.426 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"\"android.view.ViewGroup ürünü sec"}
+06-12-2021 16:19:21.426 [Gauge] [DEBUG] Sending API response: messageType:ErrorResponse  messageId:4  error:{error:"String not terminated"}
+06-12-2021 16:19:21.442 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"\"android.view.ViewGroup ürünü sec"}
+06-12-2021 16:19:21.442 [Gauge] [DEBUG] Sending API response: messageType:ErrorResponse  messageId:4  error:{error:"String not terminated"}
+06-12-2021 16:19:21.443 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"\"android.view.ViewGroup ürünü sec"}
+06-12-2021 16:19:21.443 [Gauge] [DEBUG] Sending API response: messageType:ErrorResponse  messageId:4  error:{error:"String not terminated"}
+06-12-2021 16:19:21.702 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"\"android.view.ViewGroup ürünü sec"}
+06-12-2021 16:19:21.702 [Gauge] [DEBUG] Sending API response: messageType:ErrorResponse  messageId:4  error:{error:"String not terminated"}
+06-12-2021 16:19:21.705 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"\"android.view.ViewGroup ürünü sec"}
+06-12-2021 16:19:21.705 [Gauge] [DEBUG] Sending API response: messageType:ErrorResponse  messageId:4  error:{error:"String not terminated"}
+06-12-2021 16:19:21.706 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"\"android.view.ViewGroup ürünü sec"}
+06-12-2021 16:19:21.706 [Gauge] [DEBUG] Sending API response: messageType:ErrorResponse  messageId:4  error:{error:"String not terminated"}
+06-12-2021 16:19:21.726 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"\"android.view.ViewGroup ürünü sec"}
+06-12-2021 16:19:21.726 [Gauge] [DEBUG] Sending API response: messageType:ErrorResponse  messageId:4  error:{error:"String not terminated"}
+06-12-2021 16:19:21.726 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"\"android.view.ViewGroup ürünü sec"}
+06-12-2021 16:19:21.726 [Gauge] [DEBUG] Sending API response: messageType:ErrorResponse  messageId:4  error:{error:"String not terminated"}
+06-12-2021 16:19:21.743 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"\"android.view.ViewGroup ürünü sec"}
+06-12-2021 16:19:21.744 [Gauge] [DEBUG] Sending API response: messageType:ErrorResponse  messageId:4  error:{error:"String not terminated"}
+06-12-2021 16:19:21.745 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"\"android.view.ViewGroup ürünü sec"}
+06-12-2021 16:19:21.745 [Gauge] [DEBUG] Sending API response: messageType:ErrorResponse  messageId:4  error:{error:"String not terminated"}
+06-12-2021 16:19:23.042 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"\"android.view.ViewGroup ürünü sec"}
+06-12-2021 16:19:23.043 [Gauge] [DEBUG] Sending API response: messageType:ErrorResponse  messageId:4  error:{error:"String not terminated"}
+06-12-2021 16:19:23.043 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"\"android.view.ViewGroup ürünü sec"}
+06-12-2021 16:19:23.043 [Gauge] [DEBUG] Sending API response: messageType:ErrorResponse  messageId:4  error:{error:"String not terminated"}
+06-12-2021 16:19:23.063 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"\"android.view.ViewGroup ürünü sec"}
+06-12-2021 16:19:23.064 [Gauge] [DEBUG] Sending API response: messageType:ErrorResponse  messageId:4  error:{error:"String not terminated"}
+06-12-2021 16:19:23.064 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"\"android.view.ViewGroup ürünü sec"}
+06-12-2021 16:19:23.064 [Gauge] [DEBUG] Sending API response: messageType:ErrorResponse  messageId:4  error:{error:"String not terminated"}
+06-12-2021 16:19:23.083 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"\"android.view.ViewGroup ürünü sec"}
+06-12-2021 16:19:23.083 [Gauge] [DEBUG] Sending API response: messageType:ErrorResponse  messageId:4  error:{error:"String not terminated"}
+06-12-2021 16:19:23.083 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"\"android.view.ViewGroup ürünü sec"}
+06-12-2021 16:19:23.083 [Gauge] [DEBUG] Sending API response: messageType:ErrorResponse  messageId:4  error:{error:"String not terminated"}
+06-12-2021 16:19:23.101 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"\"android.view.ViewGroup ürünü sec"}
+06-12-2021 16:19:23.102 [Gauge] [DEBUG] Sending API response: messageType:ErrorResponse  messageId:4  error:{error:"String not terminated"}
+06-12-2021 16:19:23.102 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"\"android.view.ViewGroup ürünü sec"}
+06-12-2021 16:19:23.102 [Gauge] [DEBUG] Sending API response: messageType:ErrorResponse  messageId:4  error:{error:"String not terminated"}
+06-12-2021 16:19:23.501 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"\"android.view.ViewGroup ürünü sec"}
+06-12-2021 16:19:23.501 [Gauge] [DEBUG] Sending API response: messageType:ErrorResponse  messageId:4  error:{error:"String not terminated"}
+06-12-2021 16:19:23.502 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"\"android.view.ViewGroup ürünü sec"}
+06-12-2021 16:19:23.502 [Gauge] [DEBUG] Sending API response: messageType:ErrorResponse  messageId:4  error:{error:"String not terminated"}
+06-12-2021 16:19:23.525 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"\"android.view.ViewGroup ürünü sec"}
+06-12-2021 16:19:23.526 [Gauge] [DEBUG] Sending API response: messageType:ErrorResponse  messageId:4  error:{error:"String not terminated"}
+06-12-2021 16:19:23.526 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"\"android.view.ViewGroup ürünü sec"}
+06-12-2021 16:19:23.526 [Gauge] [DEBUG] Sending API response: messageType:ErrorResponse  messageId:4  error:{error:"String not terminated"}
+06-12-2021 16:19:23.547 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"\"android.view.ViewGroup ürünü sec"}
+06-12-2021 16:19:23.547 [Gauge] [DEBUG] Sending API response: messageType:ErrorResponse  messageId:4  error:{error:"String not terminated"}
+06-12-2021 16:19:23.548 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"\"android.view.ViewGroup ürünü sec"}
+06-12-2021 16:19:23.548 [Gauge] [DEBUG] Sending API response: messageType:ErrorResponse  messageId:4  error:{error:"String not terminated"}
+06-12-2021 16:19:23.778 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"\"android.view.ViewGroup\" ürünü sec"}
+06-12-2021 16:19:23.781 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"{} ürünü sec"  parameterizedStepValue:"<android.view.ViewGroup> ürünü sec"  parameters:"android.view.ViewGroup"}}
+06-12-2021 16:19:41.338 [Gauge] [DEBUG] Spec file added / modified: C:\Users\testinium\IdeaProjects\OzdilekteyimMobilApp\specs\example.spec
+06-12-2021 16:19:41.371 [Gauge] [DEBUG] Spec file added / modified: C:\Users\testinium\IdeaProjects\OzdilekteyimMobilApp\specs\example.spec

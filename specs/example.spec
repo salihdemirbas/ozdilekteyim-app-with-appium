@@ -15,7 +15,7 @@ login
 * "2" saniye bekle
 * Scroll Yap
 *"5" saniye bekle
-*"android.widget.ImageView" ürünü sec
+*"android.view.ViewGroup" ürünü sec
 *"10" saniye bekle
 *"com.ozdilek.ozdilekteyim:id/imgFav" id'li elemente tıkla
 *"5" saniye bekle
