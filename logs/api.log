@@ -7689,3 +7689,212 @@
 07-12-2021 09:43:09.293 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"be"  parameterizedStepValue:"be"}}
 07-12-2021 09:43:21.504 [Gauge] [DEBUG] Spec file added / modified: C:\Users\testinium\IdeaProjects\OzdilekteyimMobilApp\specs\scenarios\example.spec
 07-12-2021 09:43:21.521 [Gauge] [DEBUG] Spec file added / modified: C:\Users\testinium\IdeaProjects\OzdilekteyimMobilApp\specs\scenarios\example.spec
+07-12-2021 09:45:49.498 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"* \"3\" saniye bekle"}
+07-12-2021 09:45:49.506 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"* {} saniye bekle"  parameterizedStepValue:"* <3> saniye bekle"  parameters:"3"}}
+07-12-2021 09:45:49.509 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"* \"com.ozdilek.ozdilekteyim:id/tv_startShoppingStore\" id'li elemente tıkla"}
+07-12-2021 09:45:49.510 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"* {} id'li elemente tıkla"  parameterizedStepValue:"* <com.ozdilek.ozdilekteyim:id/tv_startShoppingStore> id'li elemente tıkla"  parameters:"com.ozdilek.ozdilekteyim:id/tv_startShoppingStore"}}
+07-12-2021 09:45:49.510 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"*\"3\" saniye bekle"}
+07-12-2021 09:45:49.510 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"*{} saniye bekle"  parameterizedStepValue:"*<3> saniye bekle"  parameters:"3"}}
+07-12-2021 09:45:49.511 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"* \"com.ozdilek.ozdilekteyim:id/nav_categories\" id'li elemente tıkla"}
+07-12-2021 09:45:49.511 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"* {} id'li elemente tıkla"  parameterizedStepValue:"* <com.ozdilek.ozdilekteyim:id/nav_categories> id'li elemente tıkla"  parameters:"com.ozdilek.ozdilekteyim:id/nav_categories"}}
+07-12-2021 09:45:49.511 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"* \"//*[@text='Kadın']\" xpath elementine tıkla"}
+07-12-2021 09:45:49.511 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"* {} xpath elementine tıkla"  parameterizedStepValue:"* <//*[@text='Kadın']> xpath elementine tıkla"  parameters:"//*[@text='Kadın']"}}
+07-12-2021 09:45:49.511 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"* \"//*[@text='Pantolon']\" xpath elementine tıkla"}
+07-12-2021 09:45:49.511 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"* {} xpath elementine tıkla"  parameterizedStepValue:"* <//*[@text='Pantolon']> xpath elementine tıkla"  parameters:"//*[@text='Pantolon']"}}
+07-12-2021 09:45:49.513 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"* \"2\" saniye bekle"}
+07-12-2021 09:45:49.513 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"* {} saniye bekle"  parameterizedStepValue:"* <2> saniye bekle"  parameters:"2"}}
+07-12-2021 09:45:49.513 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"* Scroll Yap"}
+07-12-2021 09:45:49.513 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"* Scroll Yap"  parameterizedStepValue:"* Scroll Yap"}}
+07-12-2021 09:45:49.513 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"*\"5\" saniye bekle"}
+07-12-2021 09:45:49.513 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"*{} saniye bekle"  parameterizedStepValue:"*<5> saniye bekle"  parameters:"5"}}
+07-12-2021 09:45:49.513 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"*\"com.ozdilek.ozdilekteyim:id/imageView\" ürünü sec"}
+07-12-2021 09:45:49.513 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"*{} ürünü sec"  parameterizedStepValue:"*<com.ozdilek.ozdilekteyim:id/imageView> ürünü sec"  parameters:"com.ozdilek.ozdilekteyim:id/imageView"}}
+07-12-2021 09:45:49.513 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"*\"com.ozdilek.ozdilekteyim:id/imgFav\" id'li elemente tıkla"}
+07-12-2021 09:45:49.513 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"*{} id'li elemente tıkla"  parameterizedStepValue:"*<com.ozdilek.ozdilekteyim:id/imgFav> id'li elemente tıkla"  parameters:"com.ozdilek.ozdilekteyim:id/imgFav"}}
+07-12-2021 09:45:49.513 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"*\"com.ozdilek.ozdilekteyim:id/etEposta\"'li elemente \"appiumdeneme@hotmail.com\" degerini yaz"}
+07-12-2021 09:45:49.513 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"*{}'li elemente {} degerini yaz"  parameterizedStepValue:"*<com.ozdilek.ozdilekteyim:id/etEposta>'li elemente <appiumdeneme@hotmail.com> degerini yaz"  parameters:"com.ozdilek.ozdilekteyim:id/etEposta"  parameters:"appiumdeneme@hotmail.com"}}
+07-12-2021 09:45:49.514 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"*\"2\" saniye bekle"}
+07-12-2021 09:45:49.514 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"*{} saniye bekle"  parameterizedStepValue:"*<2> saniye bekle"  parameters:"2"}}
+07-12-2021 09:45:49.514 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"*\"com.ozdilek.ozdilekteyim:id/etPassword\"'li elemente \"appiumDeneme16\" degerini yaz"}
+07-12-2021 09:45:49.514 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"*{}'li elemente {} degerini yaz"  parameterizedStepValue:"*<com.ozdilek.ozdilekteyim:id/etPassword>'li elemente <appiumDeneme16> degerini yaz"  parameters:"com.ozdilek.ozdilekteyim:id/etPassword"  parameters:"appiumDeneme16"}}
+07-12-2021 09:45:49.514 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"*\"com.ozdilek.ozdilekteyim:id/ivBack\" id'li elemente tıkla"}
+07-12-2021 09:45:49.514 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"*{} id'li elemente tıkla"  parameterizedStepValue:"*<com.ozdilek.ozdilekteyim:id/ivBack> id'li elemente tıkla"  parameters:"com.ozdilek.ozdilekteyim:id/ivBack"}}
+07-12-2021 09:45:49.515 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"*\"com.ozdilek.ozdilekteyim:id/tvInSizeItem\" beden sec"}
+07-12-2021 09:45:49.515 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"*{} beden sec"  parameterizedStepValue:"*<com.ozdilek.ozdilekteyim:id/tvInSizeItem> beden sec"  parameters:"com.ozdilek.ozdilekteyim:id/tvInSizeItem"}}
+07-12-2021 09:45:49.515 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"*\"com.ozdilek.ozdilekteyim:id/relLayAddCartBtn\" id'li elemente tıkla"}
+07-12-2021 09:45:49.515 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"*{} id'li elemente tıkla"  parameterizedStepValue:"*<com.ozdilek.ozdilekteyim:id/relLayAddCartBtn> id'li elemente tıkla"  parameters:"com.ozdilek.ozdilekteyim:id/relLayAddCartBtn"}}
+07-12-2021 09:54:35.142 [Gauge] [DEBUG] Concept file added / modified: C:\Users\testinium\IdeaProjects\OzdilekteyimMobilApp\specs\concepts\Kategoriler.cpt
+07-12-2021 09:54:55.404 [Gauge] [DEBUG] Concept file added / modified: C:\Users\testinium\IdeaProjects\OzdilekteyimMobilApp\specs\concepts\Kategoriler.cpt
+07-12-2021 09:54:55.413 [Gauge] [ERROR] Parse failure: [[ParseError] C:\Users\testinium\IdeaProjects\OzdilekteyimMobilApp\specs\concepts\Kategoriler.cpt:1 Duplicate concept definition found => 'Kategoriler butonuna tikla' [ParseError] C:\Users\testinium\IdeaProjects\OzdilekteyimMobilApp\specs\concepts\Anasayfa.cpt:5 Duplicate concept definition found => 'Kategoriler butonuna tikla' [ParseError] C:\Users\testinium\IdeaProjects\OzdilekteyimMobilApp\specs\concepts\Kategoriler.cpt:5 Duplicate concept definition found => 'Kadın kategorisini sec' [ParseError] C:\Users\testinium\IdeaProjects\OzdilekteyimMobilApp\specs\concepts\Anasayfa.cpt:9 Duplicate concept definition found => 'Kadın kategorisini sec' [ParseError] C:\Users\testinium\IdeaProjects\OzdilekteyimMobilApp\specs\concepts\Kategoriler.cpt:9 Duplicate concept definition found => 'Pantolon urununu sec' [ParseError] C:\Users\testinium\IdeaProjects\OzdilekteyimMobilApp\specs\concepts\Anasayfa.cpt:13 Duplicate concept definition found => 'Pantolon urununu sec']
+07-12-2021 09:54:55.414 [Gauge] [DEBUG] Concept file added / modified: C:\Users\testinium\IdeaProjects\OzdilekteyimMobilApp\specs\concepts\Kategoriler.cpt
+07-12-2021 09:54:55.416 [Gauge] [DEBUG] Concept file added / modified: C:\Users\testinium\IdeaProjects\OzdilekteyimMobilApp\specs\concepts\Anasayfa.cpt
+07-12-2021 09:54:55.467 [Gauge] [DEBUG] Concept file added / modified: C:\Users\testinium\IdeaProjects\OzdilekteyimMobilApp\specs\concepts\Anasayfa.cpt
+07-12-2021 09:55:07.881 [Gauge] [DEBUG] Concept file added / modified: C:\Users\testinium\IdeaProjects\OzdilekteyimMobilApp\specs\concepts\Scroll.cpt
+07-12-2021 09:55:41.181 [Gauge] [DEBUG] Concept file added / modified: C:\Users\testinium\IdeaProjects\OzdilekteyimMobilApp\specs\concepts\RandomUrun.cpt
+07-12-2021 09:56:01.756 [Gauge] [DEBUG] Concept file added / modified: C:\Users\testinium\IdeaProjects\OzdilekteyimMobilApp\specs\concepts\FavorıUrunEkle.cpt
+07-12-2021 09:56:07.162 [Gauge] [DEBUG] Concept file added / modified: C:\Users\testinium\IdeaProjects\OzdilekteyimMobilApp\specs\concepts\FavorıUrunEkle.cpt
+07-12-2021 09:56:07.313 [Gauge] [ERROR] Parse failure: [[ParseError] C:\Users\testinium\IdeaProjects\OzdilekteyimMobilApp\specs\concepts\FavorıUrunEkle.cpt:1 Duplicate concept definition found => 'Secilen urunu favorilere ekle' [ParseError] C:\Users\testinium\IdeaProjects\OzdilekteyimMobilApp\specs\concepts\Anasayfa.cpt:16 Duplicate concept definition found => 'Secilen urunu favorilere ekle']
+07-12-2021 09:56:07.313 [Gauge] [DEBUG] Concept file added / modified: C:\Users\testinium\IdeaProjects\OzdilekteyimMobilApp\specs\concepts\FavorıUrunEkle.cpt
+07-12-2021 09:56:07.314 [Gauge] [DEBUG] Concept file added / modified: C:\Users\testinium\IdeaProjects\OzdilekteyimMobilApp\specs\concepts\Scroll.cpt
+07-12-2021 09:56:07.324 [Gauge] [ERROR] Parse failure: [[ParseError] C:\Users\testinium\IdeaProjects\OzdilekteyimMobilApp\specs\concepts\Scroll.cpt:1 Duplicate concept definition found => 'Scrol yap' [ParseError] C:\Users\testinium\IdeaProjects\OzdilekteyimMobilApp\specs\concepts\Anasayfa.cpt:7 Duplicate concept definition found => 'Scrol yap']
+07-12-2021 09:56:07.324 [Gauge] [DEBUG] Concept file added / modified: C:\Users\testinium\IdeaProjects\OzdilekteyimMobilApp\specs\concepts\Scroll.cpt
+07-12-2021 09:56:07.324 [Gauge] [DEBUG] Concept file added / modified: C:\Users\testinium\IdeaProjects\OzdilekteyimMobilApp\specs\concepts\Anasayfa.cpt
+07-12-2021 09:56:07.345 [Gauge] [DEBUG] Concept file added / modified: C:\Users\testinium\IdeaProjects\OzdilekteyimMobilApp\specs\concepts\Anasayfa.cpt
+07-12-2021 09:56:07.346 [Gauge] [DEBUG] Concept file added / modified: C:\Users\testinium\IdeaProjects\OzdilekteyimMobilApp\specs\concepts\RandomUrun.cpt
+07-12-2021 09:56:07.356 [Gauge] [DEBUG] Concept file added / modified: C:\Users\testinium\IdeaProjects\OzdilekteyimMobilApp\specs\concepts\RandomUrun.cpt
+07-12-2021 09:56:30.317 [Gauge] [DEBUG] Concept file added / modified: C:\Users\testinium\IdeaProjects\OzdilekteyimMobilApp\specs\concepts\GirisBilgileri.cpt
+07-12-2021 09:56:37.078 [Gauge] [DEBUG] Concept file added / modified: C:\Users\testinium\IdeaProjects\OzdilekteyimMobilApp\specs\concepts\GirisBilgileri.cpt
+07-12-2021 09:56:37.080 [Gauge] [ERROR] Parse failure: [[ParseError] C:\Users\testinium\IdeaProjects\OzdilekteyimMobilApp\specs\concepts\GirisBilgileri.cpt:1 Duplicate concept definition found => 'Email ve sifre degerlerini gir' [ParseError] C:\Users\testinium\IdeaProjects\OzdilekteyimMobilApp\specs\concepts\Anasayfa.cpt:13 Duplicate concept definition found => 'Email ve sifre degerlerini gir']
+07-12-2021 09:56:37.080 [Gauge] [DEBUG] Concept file added / modified: C:\Users\testinium\IdeaProjects\OzdilekteyimMobilApp\specs\concepts\GirisBilgileri.cpt
+07-12-2021 09:56:55.129 [Gauge] [DEBUG] Concept file added / modified: C:\Users\testinium\IdeaProjects\OzdilekteyimMobilApp\specs\concepts\GeriGel.cpt
+07-12-2021 09:56:56.478 [Gauge] [DEBUG] Concept file added / modified: C:\Users\testinium\IdeaProjects\OzdilekteyimMobilApp\specs\concepts\GeriGel.cpt
+07-12-2021 09:56:56.482 [Gauge] [ERROR] Parse failure: [[ParseError] C:\Users\testinium\IdeaProjects\OzdilekteyimMobilApp\specs\concepts\GeriGel.cpt:1 Duplicate concept definition found => 'Geri butonuna 2 defa tikla' [ParseError] C:\Users\testinium\IdeaProjects\OzdilekteyimMobilApp\specs\concepts\Anasayfa.cpt:19 Duplicate concept definition found => 'Geri butonuna 2 defa tikla']
+07-12-2021 09:56:56.482 [Gauge] [DEBUG] Concept file added / modified: C:\Users\testinium\IdeaProjects\OzdilekteyimMobilApp\specs\concepts\GeriGel.cpt
+07-12-2021 09:56:56.494 [Gauge] [DEBUG] Concept file added / modified: C:\Users\testinium\IdeaProjects\OzdilekteyimMobilApp\specs\concepts\Anasayfa.cpt
+07-12-2021 09:56:56.510 [Gauge] [DEBUG] Concept file added / modified: C:\Users\testinium\IdeaProjects\OzdilekteyimMobilApp\specs\concepts\Anasayfa.cpt
+07-12-2021 09:57:20.193 [Gauge] [DEBUG] Concept file added / modified: C:\Users\testinium\IdeaProjects\OzdilekteyimMobilApp\specs\concepts\BedenSec.cpt
+07-12-2021 09:57:21.729 [Gauge] [DEBUG] Concept file added / modified: C:\Users\testinium\IdeaProjects\OzdilekteyimMobilApp\specs\concepts\BedenSec.cpt
+07-12-2021 09:57:21.731 [Gauge] [ERROR] Parse failure: [[ParseError] C:\Users\testinium\IdeaProjects\OzdilekteyimMobilApp\specs\concepts\BedenSec.cpt:1 Duplicate concept definition found => 'Pantolon bedeni sec' [ParseError] C:\Users\testinium\IdeaProjects\OzdilekteyimMobilApp\specs\concepts\Anasayfa.cpt:16 Duplicate concept definition found => 'Pantolon bedeni sec']
+07-12-2021 09:57:21.731 [Gauge] [DEBUG] Concept file added / modified: C:\Users\testinium\IdeaProjects\OzdilekteyimMobilApp\specs\concepts\BedenSec.cpt
+07-12-2021 09:57:21.738 [Gauge] [DEBUG] Concept file added / modified: C:\Users\testinium\IdeaProjects\OzdilekteyimMobilApp\specs\concepts\Anasayfa.cpt
+07-12-2021 09:57:21.759 [Gauge] [DEBUG] Concept file added / modified: C:\Users\testinium\IdeaProjects\OzdilekteyimMobilApp\specs\concepts\Anasayfa.cpt
+07-12-2021 09:57:32.411 [Gauge] [DEBUG] Concept file added / modified: C:\Users\testinium\IdeaProjects\OzdilekteyimMobilApp\specs\concepts\SepeteEkle.cpt
+07-12-2021 09:57:33.816 [Gauge] [DEBUG] Concept file added / modified: C:\Users\testinium\IdeaProjects\OzdilekteyimMobilApp\specs\concepts\SepeteEkle.cpt
+07-12-2021 09:57:33.836 [Gauge] [ERROR] Parse failure: [[ParseError] C:\Users\testinium\IdeaProjects\OzdilekteyimMobilApp\specs\concepts\SepeteEkle.cpt:1 Duplicate concept definition found => 'Urunu sepete ekle' [ParseError] C:\Users\testinium\IdeaProjects\OzdilekteyimMobilApp\specs\concepts\Anasayfa.cpt:18 Duplicate concept definition found => 'Urunu sepete ekle']
+07-12-2021 09:57:33.836 [Gauge] [DEBUG] Concept file added / modified: C:\Users\testinium\IdeaProjects\OzdilekteyimMobilApp\specs\concepts\SepeteEkle.cpt
+07-12-2021 09:57:33.836 [Gauge] [DEBUG] Concept file added / modified: C:\Users\testinium\IdeaProjects\OzdilekteyimMobilApp\specs\concepts\Anasayfa.cpt
+07-12-2021 09:57:33.849 [Gauge] [DEBUG] Concept file added / modified: C:\Users\testinium\IdeaProjects\OzdilekteyimMobilApp\specs\concepts\Anasayfa.cpt
+07-12-2021 11:44:22.739 [Gauge] [INFO] Initializing concepts cache with 11 concepts
+07-12-2021 11:44:22.740 [Gauge] [DEBUG] Adding concepts from C:\Users\testinium\IdeaProjects\OzdilekteyimMobilApp\specs\concepts\Kategoriler.cpt
+07-12-2021 11:44:22.740 [Gauge] [DEBUG] Adding concepts from C:\Users\testinium\IdeaProjects\OzdilekteyimMobilApp\specs\concepts\Kategoriler.cpt
+07-12-2021 11:44:22.740 [Gauge] [DEBUG] Adding concepts from C:\Users\testinium\IdeaProjects\OzdilekteyimMobilApp\specs\concepts\RandomUrun.cpt
+07-12-2021 11:44:22.740 [Gauge] [DEBUG] Adding concepts from C:\Users\testinium\IdeaProjects\OzdilekteyimMobilApp\specs\concepts\SepeteEkle.cpt
+07-12-2021 11:44:22.740 [Gauge] [DEBUG] Adding concepts from C:\Users\testinium\IdeaProjects\OzdilekteyimMobilApp\specs\concepts\Anasayfa.cpt
+07-12-2021 11:44:22.740 [Gauge] [DEBUG] Adding concepts from C:\Users\testinium\IdeaProjects\OzdilekteyimMobilApp\specs\concepts\Scroll.cpt
+07-12-2021 11:44:22.740 [Gauge] [DEBUG] Adding concepts from C:\Users\testinium\IdeaProjects\OzdilekteyimMobilApp\specs\concepts\FavorıUrunEkle.cpt
+07-12-2021 11:44:22.740 [Gauge] [DEBUG] Adding concepts from C:\Users\testinium\IdeaProjects\OzdilekteyimMobilApp\specs\concepts\Kategoriler.cpt
+07-12-2021 11:44:22.740 [Gauge] [DEBUG] Adding concepts from C:\Users\testinium\IdeaProjects\OzdilekteyimMobilApp\specs\concepts\BedenSec.cpt
+07-12-2021 11:44:22.740 [Gauge] [DEBUG] Adding concepts from C:\Users\testinium\IdeaProjects\OzdilekteyimMobilApp\specs\concepts\GeriGel.cpt
+07-12-2021 11:44:22.740 [Gauge] [DEBUG] Adding concepts from C:\Users\testinium\IdeaProjects\OzdilekteyimMobilApp\specs\concepts\GirisBilgileri.cpt
+07-12-2021 11:44:22.742 [Gauge] [INFO] Initializing specs cache with 1 specs
+07-12-2021 11:44:22.742 [Gauge] [DEBUG] Adding specs from C:\Users\testinium\IdeaProjects\OzdilekteyimMobilApp\specs\scenarios\example.spec
+07-12-2021 11:44:22.742 [Gauge] [INFO] Initializing steps cache with 10 steps
+07-12-2021 11:44:22.743 [Gauge] [INFO] Gauge daemon initialized and listening on port: 60662
+07-12-2021 11:44:22.744 [Gauge] [DEBUG] Watching directory: C:\Users\testinium\IdeaProjects\OzdilekteyimMobilApp\specs
+07-12-2021 11:44:22.745 [Gauge] [DEBUG] Found 2 files
+07-12-2021 11:44:22.745 [Gauge] [DEBUG] Watching directory: C:\Users\testinium\IdeaProjects\OzdilekteyimMobilApp\specs\concepts
+07-12-2021 11:44:22.745 [Gauge] [DEBUG] Found 9 files
+07-12-2021 11:44:22.745 [Gauge] [DEBUG] Watching directory: C:\Users\testinium\IdeaProjects\OzdilekteyimMobilApp\specs\scenarios
+07-12-2021 11:44:22.745 [Gauge] [DEBUG] Found 1 files
+07-12-2021 13:22:12.103 [Gauge] [INFO] Initializing concepts cache with 11 concepts
+07-12-2021 13:22:12.103 [Gauge] [DEBUG] Adding concepts from C:\Users\testinium\IdeaProjects\OzdilekteyimMobilApp\specs\concepts\GeriGel.cpt
+07-12-2021 13:22:12.103 [Gauge] [DEBUG] Adding concepts from C:\Users\testinium\IdeaProjects\OzdilekteyimMobilApp\specs\concepts\Kategoriler.cpt
+07-12-2021 13:22:12.103 [Gauge] [DEBUG] Adding concepts from C:\Users\testinium\IdeaProjects\OzdilekteyimMobilApp\specs\concepts\Kategoriler.cpt
+07-12-2021 13:22:12.103 [Gauge] [DEBUG] Adding concepts from C:\Users\testinium\IdeaProjects\OzdilekteyimMobilApp\specs\concepts\Kategoriler.cpt
+07-12-2021 13:22:12.103 [Gauge] [DEBUG] Adding concepts from C:\Users\testinium\IdeaProjects\OzdilekteyimMobilApp\specs\concepts\SepeteEkle.cpt
+07-12-2021 13:22:12.103 [Gauge] [DEBUG] Adding concepts from C:\Users\testinium\IdeaProjects\OzdilekteyimMobilApp\specs\concepts\BedenSec.cpt
+07-12-2021 13:22:12.103 [Gauge] [DEBUG] Adding concepts from C:\Users\testinium\IdeaProjects\OzdilekteyimMobilApp\specs\concepts\RandomUrun.cpt
+07-12-2021 13:22:12.103 [Gauge] [DEBUG] Adding concepts from C:\Users\testinium\IdeaProjects\OzdilekteyimMobilApp\specs\concepts\Scroll.cpt
+07-12-2021 13:22:12.103 [Gauge] [DEBUG] Adding concepts from C:\Users\testinium\IdeaProjects\OzdilekteyimMobilApp\specs\concepts\FavorıUrunEkle.cpt
+07-12-2021 13:22:12.103 [Gauge] [DEBUG] Adding concepts from C:\Users\testinium\IdeaProjects\OzdilekteyimMobilApp\specs\concepts\Anasayfa.cpt
+07-12-2021 13:22:12.103 [Gauge] [DEBUG] Adding concepts from C:\Users\testinium\IdeaProjects\OzdilekteyimMobilApp\specs\concepts\GirisBilgileri.cpt
+07-12-2021 13:22:12.104 [Gauge] [INFO] Initializing specs cache with 1 specs
+07-12-2021 13:22:12.104 [Gauge] [DEBUG] Adding specs from C:\Users\testinium\IdeaProjects\OzdilekteyimMobilApp\specs\scenarios\example.spec
+07-12-2021 13:22:12.104 [Gauge] [INFO] Initializing steps cache with 10 steps
+07-12-2021 13:22:12.104 [Gauge] [INFO] Gauge daemon initialized and listening on port: 60836
+07-12-2021 13:22:12.105 [Gauge] [DEBUG] Watching directory: C:\Users\testinium\IdeaProjects\OzdilekteyimMobilApp\specs
+07-12-2021 13:22:12.105 [Gauge] [DEBUG] Found 2 files
+07-12-2021 13:22:12.105 [Gauge] [DEBUG] Watching directory: C:\Users\testinium\IdeaProjects\OzdilekteyimMobilApp\specs\concepts
+07-12-2021 13:22:12.105 [Gauge] [DEBUG] Found 9 files
+07-12-2021 13:22:12.105 [Gauge] [DEBUG] Watching directory: C:\Users\testinium\IdeaProjects\OzdilekteyimMobilApp\specs\scenarios
+07-12-2021 13:22:12.105 [Gauge] [DEBUG] Found 1 files
+07-12-2021 13:22:19.921 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"<id> id'li elemente tıkla"}
+07-12-2021 13:22:19.935 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"{} id'li elemente tıkla"  parameterizedStepValue:"<id> id'li elemente tıkla"  parameters:"id"}}
+07-12-2021 13:22:19.990 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"<zaman> saniye bekle"}
+07-12-2021 13:22:20.004 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"{} saniye bekle"  parameterizedStepValue:"<zaman> saniye bekle"  parameters:"zaman"}}
+07-12-2021 13:22:20.020 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"<xpath> xpath elementine tıkla"}
+07-12-2021 13:22:20.021 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"{} xpath elementine tıkla"  parameterizedStepValue:"<xpath> xpath elementine tıkla"  parameters:"xpath"}}
+07-12-2021 13:22:20.037 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"<id>'li elemente <text> degerini yaz"}
+07-12-2021 13:22:20.037 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"{}'li elemente {} degerini yaz"  parameterizedStepValue:"<id>'li elemente <text> degerini yaz"  parameters:"id"  parameters:"text"}}
+07-12-2021 13:22:20.091 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Scroll Yap"}
+07-12-2021 13:22:20.091 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Scroll Yap"  parameterizedStepValue:"Scroll Yap"}}
+07-12-2021 13:22:20.112 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"<random> ürünü sec"}
+07-12-2021 13:22:20.125 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"{} ürünü sec"  parameterizedStepValue:"<random> ürünü sec"  parameters:"random"}}
+07-12-2021 13:22:20.141 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"<random> beden sec"}
+07-12-2021 13:22:20.145 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"{} beden sec"  parameterizedStepValue:"<random> beden sec"  parameters:"random"}}
+07-12-2021 13:22:20.160 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"* \"2\" saniye bekle"}
+07-12-2021 13:22:20.167 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"* {} saniye bekle"  parameterizedStepValue:"* <2> saniye bekle"  parameters:"2"}}
+07-12-2021 13:22:20.167 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"* Scroll Yap"}
+07-12-2021 13:22:20.167 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"* Scroll Yap"  parameterizedStepValue:"* Scroll Yap"}}
+07-12-2021 13:22:20.167 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"*\"5\" saniye bekle"}
+07-12-2021 13:22:20.167 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"*{} saniye bekle"  parameterizedStepValue:"*<5> saniye bekle"  parameters:"5"}}
+07-12-2021 13:22:20.168 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"*\"com.ozdilek.ozdilekteyim:id/imgFav\" id'li elemente tıkla"}
+07-12-2021 13:22:20.169 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"*{} id'li elemente tıkla"  parameterizedStepValue:"*<com.ozdilek.ozdilekteyim:id/imgFav> id'li elemente tıkla"  parameters:"com.ozdilek.ozdilekteyim:id/imgFav"}}
+07-12-2021 13:22:20.169 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"* \"3\" saniye bekle"}
+07-12-2021 13:22:20.170 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"* {} saniye bekle"  parameterizedStepValue:"* <3> saniye bekle"  parameters:"3"}}
+07-12-2021 13:22:20.170 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"* \"com.ozdilek.ozdilekteyim:id/tv_startShoppingStore\" id'li elemente tıkla"}
+07-12-2021 13:22:20.170 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"* {} id'li elemente tıkla"  parameterizedStepValue:"* <com.ozdilek.ozdilekteyim:id/tv_startShoppingStore> id'li elemente tıkla"  parameters:"com.ozdilek.ozdilekteyim:id/tv_startShoppingStore"}}
+07-12-2021 13:22:20.170 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"*\"com.ozdilek.ozdilekteyim:id/imageView\" ürünü sec"}
+07-12-2021 13:22:20.171 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"*{} ürünü sec"  parameterizedStepValue:"*<com.ozdilek.ozdilekteyim:id/imageView> ürünü sec"  parameters:"com.ozdilek.ozdilekteyim:id/imageView"}}
+07-12-2021 13:22:20.171 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"*\"com.ozdilek.ozdilekteyim:id/ivBack\" id'li elemente tıkla"}
+07-12-2021 13:22:20.172 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"*{} id'li elemente tıkla"  parameterizedStepValue:"*<com.ozdilek.ozdilekteyim:id/ivBack> id'li elemente tıkla"  parameters:"com.ozdilek.ozdilekteyim:id/ivBack"}}
+07-12-2021 13:22:20.172 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"*\"3\" saniye bekle"}
+07-12-2021 13:22:20.172 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"*{} saniye bekle"  parameterizedStepValue:"*<3> saniye bekle"  parameters:"3"}}
+07-12-2021 13:22:20.172 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"*\"com.ozdilek.ozdilekteyim:id/etEposta\"'li elemente \"appiumdeneme@hotmail.com\" degerini yaz"}
+07-12-2021 13:22:20.173 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"*{}'li elemente {} degerini yaz"  parameterizedStepValue:"*<com.ozdilek.ozdilekteyim:id/etEposta>'li elemente <appiumdeneme@hotmail.com> degerini yaz"  parameters:"com.ozdilek.ozdilekteyim:id/etEposta"  parameters:"appiumdeneme@hotmail.com"}}
+07-12-2021 13:22:20.173 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"*\"2\" saniye bekle"}
+07-12-2021 13:22:20.173 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"*{} saniye bekle"  parameterizedStepValue:"*<2> saniye bekle"  parameters:"2"}}
+07-12-2021 13:22:20.173 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"*\"com.ozdilek.ozdilekteyim:id/etPassword\"'li elemente \"appiumDeneme16\" degerini yaz"}
+07-12-2021 13:22:20.173 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"*{}'li elemente {} degerini yaz"  parameterizedStepValue:"*<com.ozdilek.ozdilekteyim:id/etPassword>'li elemente <appiumDeneme16> degerini yaz"  parameters:"com.ozdilek.ozdilekteyim:id/etPassword"  parameters:"appiumDeneme16"}}
+07-12-2021 13:22:20.174 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"*\"com.ozdilek.ozdilekteyim:id/tvInSizeItem\" beden sec"}
+07-12-2021 13:22:20.174 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"*{} beden sec"  parameterizedStepValue:"*<com.ozdilek.ozdilekteyim:id/tvInSizeItem> beden sec"  parameters:"com.ozdilek.ozdilekteyim:id/tvInSizeItem"}}
+07-12-2021 13:22:20.175 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"* \"com.ozdilek.ozdilekteyim:id/nav_categories\" id'li elemente tıkla"}
+07-12-2021 13:22:20.175 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"* {} id'li elemente tıkla"  parameterizedStepValue:"* <com.ozdilek.ozdilekteyim:id/nav_categories> id'li elemente tıkla"  parameters:"com.ozdilek.ozdilekteyim:id/nav_categories"}}
+07-12-2021 13:22:20.175 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"* \"//*[@text='Kadın']\" xpath elementine tıkla"}
+07-12-2021 13:22:20.175 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"* {} xpath elementine tıkla"  parameterizedStepValue:"* <//*[@text='Kadın']> xpath elementine tıkla"  parameters:"//*[@text='Kadın']"}}
+07-12-2021 13:22:20.175 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"* \"//*[@text='Pantolon']\" xpath elementine tıkla"}
+07-12-2021 13:22:20.176 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"* {} xpath elementine tıkla"  parameterizedStepValue:"* <//*[@text='Pantolon']> xpath elementine tıkla"  parameters:"//*[@text='Pantolon']"}}
+07-12-2021 13:22:20.177 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"*\"com.ozdilek.ozdilekteyim:id/relLayAddCartBtn\" id'li elemente tıkla"}
+07-12-2021 13:22:20.178 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"*{} id'li elemente tıkla"  parameterizedStepValue:"*<com.ozdilek.ozdilekteyim:id/relLayAddCartBtn> id'li elemente tıkla"  parameters:"com.ozdilek.ozdilekteyim:id/relLayAddCartBtn"}}
+07-12-2021 13:22:20.179 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Alışverise başla"}
+07-12-2021 13:22:20.185 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Alışverise başla"  parameterizedStepValue:"Alışverise başla"}}
+07-12-2021 13:22:20.185 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Kategoriler butonuna tikla"}
+07-12-2021 13:22:20.185 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Kategoriler butonuna tikla"  parameterizedStepValue:"Kategoriler butonuna tikla"}}
+07-12-2021 13:22:20.185 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Kadın kategorisini sec"}
+07-12-2021 13:22:20.185 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Kadın kategorisini sec"  parameterizedStepValue:"Kadın kategorisini sec"}}
+07-12-2021 13:22:20.185 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Pantolon urununu sec"}
+07-12-2021 13:22:20.185 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Pantolon urununu sec"  parameterizedStepValue:"Pantolon urununu sec"}}
+07-12-2021 13:22:20.185 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Rastgele bir urun sec"}
+07-12-2021 13:22:20.185 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Rastgele bir urun sec"  parameterizedStepValue:"Rastgele bir urun sec"}}
+07-12-2021 13:22:20.186 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Secilen urunu favorilere ekle"}
+07-12-2021 13:22:20.186 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Secilen urunu favorilere ekle"  parameterizedStepValue:"Secilen urunu favorilere ekle"}}
+07-12-2021 13:22:20.186 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Email ve sifre degerlerini gir"}
+07-12-2021 13:22:20.186 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Email ve sifre degerlerini gir"  parameterizedStepValue:"Email ve sifre degerlerini gir"}}
+07-12-2021 13:22:20.186 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Geri butonuna 2 defa tikla"}
+07-12-2021 13:22:20.186 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Geri butonuna 2 defa tikla"  parameterizedStepValue:"Geri butonuna 2 defa tikla"}}
+07-12-2021 13:22:20.186 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Pantolon bedeni sec"}
+07-12-2021 13:22:20.186 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Pantolon bedeni sec"  parameterizedStepValue:"Pantolon bedeni sec"}}
+07-12-2021 13:22:20.186 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Urunu sepete ekle"}
+07-12-2021 13:22:20.186 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Urunu sepete ekle"  parameterizedStepValue:"Urunu sepete ekle"}}
+07-12-2021 13:29:36.208 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"\"com.ozdilek.ozdilekteyim:id/tv_startShoppingStore\" id'li elemente tıkla"}
+07-12-2021 13:29:36.213 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"{} id'li elemente tıkla"  parameterizedStepValue:"<com.ozdilek.ozdilekteyim:id/tv_startShoppingStore> id'li elemente tıkla"  parameters:"com.ozdilek.ozdilekteyim:id/tv_startShoppingStore"}}
+07-12-2021 13:29:36.493 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"\"3\" saniye bekle"}
+07-12-2021 13:29:36.495 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"{} saniye bekle"  parameterizedStepValue:"<3> saniye bekle"  parameters:"3"}}
+07-12-2021 13:29:43.437 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:" Rastgele bir urun sec"}
+07-12-2021 13:29:43.443 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Rastgele bir urun sec"  parameterizedStepValue:"Rastgele bir urun sec"}}
+07-12-2021 13:29:43.443 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:" Kategoriler butonuna tikla"}
+07-12-2021 13:29:43.443 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Kategoriler butonuna tikla"  parameterizedStepValue:"Kategoriler butonuna tikla"}}
+07-12-2021 13:29:43.443 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:" Kadın kategorisini sec"}
+07-12-2021 13:29:43.443 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Kadın kategorisini sec"  parameterizedStepValue:"Kadın kategorisini sec"}}
+07-12-2021 13:29:43.444 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:" Pantolon urununu sec"}
+07-12-2021 13:29:43.444 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Pantolon urununu sec"  parameterizedStepValue:"Pantolon urununu sec"}}
+07-12-2021 13:29:43.444 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:" Alışverise başla"}
+07-12-2021 13:29:43.444 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Alışverise başla"  parameterizedStepValue:"Alışverise başla"}}
+07-12-2021 13:29:43.568 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:" Scrol yap"}
+07-12-2021 13:29:43.570 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Scrol yap"  parameterizedStepValue:"Scrol yap"}}
+07-12-2021 13:29:43.570 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:" Secilen urunu favorilere ekle"}
+07-12-2021 13:29:43.570 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Secilen urunu favorilere ekle"  parameterizedStepValue:"Secilen urunu favorilere ekle"}}
+07-12-2021 13:29:43.586 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:" Email ve sifre degerlerini gir"}
+07-12-2021 13:29:43.594 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Email ve sifre degerlerini gir"  parameterizedStepValue:"Email ve sifre degerlerini gir"}}
+07-12-2021 13:30:20.359 [Gauge] [DEBUG] Spec file added / modified: C:\Users\testinium\IdeaProjects\OzdilekteyimMobilApp\specs\scenarios\example.spec
+07-12-2021 13:30:20.361 [Gauge] [DEBUG] Spec file added / modified: C:\Users\testinium\IdeaProjects\OzdilekteyimMobilApp\specs\scenarios\example.spec

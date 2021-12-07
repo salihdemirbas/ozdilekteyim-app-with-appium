@@ -2,7 +2,7 @@ Specification Heading
 =====================
 
 
-login
+Main Scenario
 -----------------------------------------
 *Alışverise başla
 *Kategoriler butonuna tikla
