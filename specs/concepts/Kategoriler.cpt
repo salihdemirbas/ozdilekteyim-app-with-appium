@@ -1,0 +1,11 @@
+# Kategoriler butonuna tikla
+*"3" saniye bekle
+* "com.ozdilek.ozdilekteyim:id/nav_categories" id'li elemente tıkla
+
+# Kadın kategorisini sec
+* "3" saniye bekle
+* "//*[@text='Kadın']" xpath elementine tıkla
+
+# Pantolon urununu sec
+* "3" saniye bekle
+* "//*[@text='Pantolon']" xpath elementine tıkla

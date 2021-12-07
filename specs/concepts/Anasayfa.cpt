@@ -2,47 +2,16 @@
 * "3" saniye bekle
 * "com.ozdilek.ozdilekteyim:id/tv_startShoppingStore" id'li elemente tıkla
 
-# Kategoriler butonuna tikla
-*"3" saniye bekle
-* "com.ozdilek.ozdilekteyim:id/nav_categories" id'li elemente tıkla
 
-# Kadın kategorisini sec
-* "3" saniye bekle
-* "//*[@text='Kadın']" xpath elementine tıkla
 
-# Pantolon urununu sec
-* "3" saniye bekle
-* "//*[@text='Pantolon']" xpath elementine tıkla
 
-# Scrol yap
-* "2" saniye bekle
-* Scroll Yap
-*"5" saniye bekle
 
-# Rastgele bir urun sec
-*"com.ozdilek.ozdilekteyim:id/imageView" ürünü sec
-*"5" saniye bekle
 
-# Secilen urunu favorilere ekle
-*"com.ozdilek.ozdilekteyim:id/imgFav" id'li elemente tıkla
-*"5" saniye bekle
 
-# Email ve sifre degerlerini gir
-*"com.ozdilek.ozdilekteyim:id/etEposta"'li elemente "appiumdeneme@hotmail.com" degerini yaz
-*"2" saniye bekle
-*"com.ozdilek.ozdilekteyim:id/etPassword"'li elemente "appiumDeneme16" degerini yaz
-*"3" saniye bekle
 
-#Geri butonuna 2 defa tikla
-*"com.ozdilek.ozdilekteyim:id/ivBack" id'li elemente tıkla
-*"3" saniye bekle
-*"com.ozdilek.ozdilekteyim:id/ivBack" id'li elemente tıkla
-*"3" saniye bekle
 
-#Pantolon bedeni sec
-*"com.ozdilek.ozdilekteyim:id/tvInSizeItem" beden sec
-*"3" saniye bekle
 
-#Urunu sepete ekle
-*"com.ozdilek.ozdilekteyim:id/relLayAddCartBtn" id'li elemente tıkla
-*"5" saniye bekle
+
+
+
+

@@ -1,0 +1,5 @@
+#Geri butonuna 2 defa tikla
+*"com.ozdilek.ozdilekteyim:id/ivBack" id'li elemente tıkla
+*"3" saniye bekle
+*"com.ozdilek.ozdilekteyim:id/ivBack" id'li elemente tıkla
+*"3" saniye bekle
