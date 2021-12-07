@@ -1,4 +1,4 @@
-#Ozdilekteyim Android Mobil Uygulamasını Appium ile Test Senaryosu
+# Ozdilekteyim Android Mobil Uygulamasını Appium ile Test Senaryosu
 
 ## Test Ortamı
 * Uygulama Android ortamında Emulator telefon kullanılarak gerçekleştirilmiştir.
