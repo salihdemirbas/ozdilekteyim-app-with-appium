@@ -1,4 +1,5 @@
 # Email ve sifre degerlerini gir
+*"2" saniye bekle
 *"com.ozdilek.ozdilekteyim:id/etEposta"'li elemente "appiumdeneme@hotmail.com" degerini yaz
 *"2" saniye bekle
 *"com.ozdilek.ozdilekteyim:id/etPassword"'li elemente "appiumDeneme16" degerini yaz

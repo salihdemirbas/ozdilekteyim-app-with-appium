@@ -1,0 +1,11 @@
+#Uygulamanin acildigini kontrol et
+*"3" saniye bekle
+*Uygulamanin acildigi kontrol edilir
+*"3" saniye bekle
+
+#Login sayfasinda olup olmadiğini kontrol et
+*Login page kontrol
+
+#Urun detay sayfasinda olup olmadigini kontrol et
+*Urun detay kontrol
+

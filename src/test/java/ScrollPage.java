@@ -16,8 +16,10 @@ public class ScrollPage extends BasePage{
         touchAction.longPress(PointOption.point(startx, starty))
                 .moveTo(PointOption.point(endx, endy))
                 .release().perform();
+        logger.info("birinci scroll yapildi");
         System.out.println("--------------------------------------");
         System.out.println("IKINCI SCROLL YAPILIYOR.....");
+        logger.info("ikinci scrol yapılıyor");
         System.out.println("--------------------------------------");
         int startx_new =546;
         int starty_new=1963;
@@ -26,6 +28,7 @@ public class ScrollPage extends BasePage{
         touchAction.longPress(PointOption.point(startx_new, starty_new))
                 .moveTo(PointOption.point(endx_new, endy_new))
                 .release().perform();
+        logger.info("ikinci scroll yapildi....");
 
 
     }

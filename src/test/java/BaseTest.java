@@ -6,12 +6,8 @@ import io.appium.java_client.android.AndroidDriver;
 import io.appium.java_client.remote.AndroidMobileCapabilityType;
 import io.appium.java_client.remote.MobileCapabilityType;
 import io.appium.java_client.remote.MobilePlatform;
-import org.apache.log4j.LogManager;
 import org.apache.log4j.Logger;
-import org.apache.log4j.PropertyConfigurator;
 import org.openqa.selenium.remote.DesiredCapabilities;
-import org.slf4j.LoggerFactory;
-
 import java.net.MalformedURLException;
 import java.net.URL;
 
@@ -19,16 +15,13 @@ public class BaseTest {
     protected static AppiumDriver<MobileElement> appiumDriver;
     protected boolean localAndroid = true;
     static org.apache.log4j.Logger logger = Logger.getLogger(BaseTest.class);
-    // PropertyConfigurator.configure("log4j.properties");
-
-
-
 
 
     @BeforeScenario
     public void beforeScenario() throws MalformedURLException {
         if(localAndroid){
-            System.out.println("Android  testi başlıyor");
+            System.out.println("Android testi basliyor");
+            logger.info("Android testi basliyor");
             DesiredCapabilities desiredCapabilities = new DesiredCapabilities();
             desiredCapabilities
                     .setCapability(MobileCapabilityType.PLATFORM_NAME, MobilePlatform.ANDROID);
@@ -41,35 +34,13 @@ public class BaseTest {
         }else{
             System.out.printf("IOS TESTİ ALANI");
 
-            /*
-            System.out.println("İos testi başlıyor");
-            DesiredCapabilities desiredCapabilities = new DesiredCapabilities();
-            desiredCapabilities
-                    .setCapability(MobileCapabilityType.PLATFORM_NAME, MobilePlatform.IOS);
-            desiredCapabilities.setCapability(MobileCapabilityType.AUTOMATION_NAME, "XCUITest");
-            desiredCapabilities
-                    .setCapability(MobileCapabilityType.UDID, "00008030-00157936018B802E");
-            desiredCapabilities
-                    .setCapability(IOSMobileCapabilityType.BUNDLE_ID, "com.pozitron.hepsiburada");
-            desiredCapabilities
-                    .setCapability(MobileCapabilityType.DEVICE_NAME, "iPhone");
-
-            desiredCapabilities.setCapability(MobileCapabilityType.PLATFORM_VERSION, "14.7.1");
-
-            desiredCapabilities.setCapability(MobileCapabilityType.NEW_COMMAND_TIMEOUT, 3000);
-
-
-
-            URL url = new URL("http://127.0.0.1:4723/wd/hub");
-            appiumDriver = new IOSDriver(url, desiredCapabilities);
-
-       */
         }
 
     }
     @AfterScenario
     public void afterScenario() {
         if(appiumDriver != null)
+            logger.info("Test basariyla sonuclandi...");
             appiumDriver.quit();
     }
 }
