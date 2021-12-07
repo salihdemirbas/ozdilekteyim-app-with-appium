@@ -4,35 +4,18 @@ Specification Heading
 
 login
 -----------------------------------------
-* "3" saniye bekle
-* "com.ozdilek.ozdilekteyim:id/tv_startShoppingStore" id'li elemente tıkla
-*"3" saniye bekle
-* "com.ozdilek.ozdilekteyim:id/nav_categories" id'li elemente tıkla
-* "3" saniye bekle
-* "//*[@text='Kadın']" xpath elementine tıkla
-* "3" saniye bekle
-* "//*[@text='Pantolon']" xpath elementine tıkla
-* "2" saniye bekle
-* Scroll Yap
-*"5" saniye bekle
-*"com.ozdilek.ozdilekteyim:id/imageView" ürünü sec
-*"10" saniye bekle
-*"com.ozdilek.ozdilekteyim:id/imgFav" id'li elemente tıkla
-*"5" saniye bekle
-*"com.ozdilek.ozdilekteyim:id/etEposta"'li elemente "appiumdeneme@hotmail.com" degerini yaz
-*"2" saniye bekle
-*"com.ozdilek.ozdilekteyim:id/etPassword"'li elemente "appiumDeneme16" degerini yaz
-*"3" saniye bekle
-*"com.ozdilek.ozdilekteyim:id/ivBack" id'li elemente tıkla
-*"3" saniye bekle
-*"com.ozdilek.ozdilekteyim:id/ivBack" id'li elemente tıkla
-*"10" saniye bekle
-*"com.ozdilek.ozdilekteyim:id/imageView" ürünü sec
-*"3" saniye bekle
-*"com.ozdilek.ozdilekteyim:id/tvInSizeItem" beden sec
-*"3" saniye bekle
-*"com.ozdilek.ozdilekteyim:id/relLayAddCartBtn" id'li elemente tıkla
-*"5" saniye bekle
+*Alışverise başla
+*Kategoriler butonuna tikla
+*Kadın kategorisini sec
+*Pantolon urununu sec
+*Scroll Yap
+*Rastgele bir urun sec
+*Secilen urunu favorilere ekle
+*Email ve sifre degerlerini gir
+*Geri butonuna 2 defa tikla
+*Rastgele bir urun sec
+*Pantolon bedeni sec
+*Urunu sepete ekle
 
 
 
