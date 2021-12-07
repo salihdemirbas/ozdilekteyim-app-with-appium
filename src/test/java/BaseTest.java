@@ -26,7 +26,7 @@ public class BaseTest {
 
 
     @BeforeScenario
-    public void Education() throws MalformedURLException {
+    public void beforeScenario() throws MalformedURLException {
         if(localAndroid){
             System.out.println("Android  testi başlıyor");
             DesiredCapabilities desiredCapabilities = new DesiredCapabilities();
