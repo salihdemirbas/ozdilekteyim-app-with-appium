@@ -6,7 +6,11 @@ import io.appium.java_client.android.AndroidDriver;
 import io.appium.java_client.remote.AndroidMobileCapabilityType;
 import io.appium.java_client.remote.MobileCapabilityType;
 import io.appium.java_client.remote.MobilePlatform;
+import org.apache.log4j.LogManager;
+import org.apache.log4j.Logger;
+import org.apache.log4j.PropertyConfigurator;
 import org.openqa.selenium.remote.DesiredCapabilities;
+import org.slf4j.LoggerFactory;
 
 import java.net.MalformedURLException;
 import java.net.URL;
@@ -14,6 +18,12 @@ import java.net.URL;
 public class BaseTest {
     protected static AppiumDriver<MobileElement> appiumDriver;
     protected boolean localAndroid = true;
+    static org.apache.log4j.Logger logger = Logger.getLogger(BaseTest.class);
+    // PropertyConfigurator.configure("log4j.properties");
+
+
+
+
 
     @BeforeScenario
     public void Education() throws MalformedURLException {

@@ -7,31 +7,42 @@ import org.openqa.selenium.By;
 import org.openqa.selenium.JavascriptExecutor;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.interactions.touch.TouchActions;
+import org.slf4j.LoggerFactory;
 
 import java.util.HashMap;
 import java.util.List;
 import java.util.Random;
 import java.util.concurrent.TimeUnit;
+import  org.apache.log4j.Logger;
+import org.apache.log4j.PropertyConfigurator;
 
 public class BasePage extends BaseTest {
-
+   //static Logger logger = Logger.getLogger(BasePage.class);
+ //   static Logger logger = Logger.getLogger(Log4jXmlConfigurationExample.class);
     //-------------------------------------------------------------
+   // PropertyConfigurator.configure("log4j.properties");
+   // PropertyConfigurator.configure("log4j.properties");
 
     @Step("<id> id'li elemente tıkla")
     public void tikla(String id) {
         appiumDriver.findElement(By.id(id)).click();
         //log4j gelmeli
+        //logger.info(id + "elemenitine tıklanıd******");
+        //logger.info(id + "elementine tıklandı----------****----");
         System.out.println(id + " elementina tiklandi");
 
     }
     @Step("<zaman> saniye bekle")
     public void bekle(int zaman) throws InterruptedException {
         TimeUnit.SECONDS.sleep(zaman);
+       // logger.info(zaman + "saniye beklendi******");
         System.out.println(zaman + " saniye beklendi.");
     }
     @Step("<xpath> xpath elementine tıkla")
     public void xpathTikla(String xpath){
         appiumDriver.findElement(By.xpath(xpath)).click();
+      //  logger.info(xpath + "xpath elementine tıklandı******");
+
         System.out.println(xpath + "xpath elementine tiklandi");
     }
     @Step("<id>'li elemente <text> degerini yaz")
