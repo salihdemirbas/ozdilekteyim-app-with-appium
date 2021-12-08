@@ -4,6 +4,7 @@
 * Uygulama Android ortamında Emulator telefon kullanılarak gerçekleştirilmiştir.
 * Telefon olarak Pixel 5, Android sürümü olarak Oreo 8.0 (API 26) tercih edilmiştir.
 * Telefon çözünürlüğü 1080x2340 olarak seçilmiştir.
+* Özdilekteyim Android Mobil App Versiyon : 1.1.13
 
 ## Kullanılan Teknolojiler
 * Proje Java programlama dili ile yazılmış olup, Appium ve Gauge kullanılmıştır.
